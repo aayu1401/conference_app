@@ -1,0 +1,2902 @@
+{
+ "111":{
+  "Speakers": "Orkodip Mookherjee, Shantanu Pramanik and Atul Sharma",
+  "Topic": "Comparative CmFD Study on Geometric and Algebraic Coupled Level Set & Volume of Fluid Methods"
+ },
+ "128":{
+  "Speakers": "Rutuja Tambekar and Ashwinkumar Dhoble",
+  "Topic": "CFD Analysis for the study of Automotive Underhood Aerodynamics and Thermal Management"
+ },
+ "133": {
+  "Speakers": "Piyush Kumar Aggarwal, Indranil Banerjee, V. Vinod and S. Raghupathy",
+  "Topic": "Experimental Modelling to Measure the Seat Leakage in Shutdown System of PFBR"
+ },
+ "160":{
+  "Speakers": "Debmalya Roy, Rahul Roy, Aniruddha Guha, Siddhartha Mukherjee and Suman Chakraborty",
+  "Topic": "Electrokinetics in hyperbolically contracting micro-channels"
+ },
+ "164":{
+  "Speakers": "Shail Shah, Fagun Pithadiya and Sanjay Jain",
+  "Topic": "Performance of Water Based Loop Heat Pipe at Different Ambient Conditions for Thermal Management in Terrestrial Applications"
+ },
+ "178":{
+  "Speakers": "Ashish Mishra, George Mamatsashvili and Frank Stefani",
+  "Topic": "Linear and nonlinear simulations of magnetorotational instability for the upcoming DRESDYN-MRI experiment"
+ },
+ "194":{
+  "Speakers": "Jyoti Gupta, Malkeet Singh and Arun K Saha",
+  "Topic": "Characterization of Separated Shear Layer of Elevated Jet in Crossflow at Low Velocity Ratio"
+ },
+ "218":{
+  "Speakers": "Pol Reddy Kukutla and Naveen Kumar P",
+  "Topic": "COMPUTATIONAL ANALYSIS OF SCRAMJET INTAKE SECTION"
+ },
+ "223":{
+  "Speakers": "Perka Rishikaran, Sabareesh V, Sujith Vijayan and Pramod Kuntikana",
+  "Topic": "An Experimental and Numerical study on Omni Directional Wind Turbine Prototypes"
+ },
+ "233":{
+  "Speakers": "Aditya Patwari, Avinash Kumar, Chirodeep Bakli and Suman Chakraborty",
+  "Topic": "Combined effect of Fluid Rheology and Surface Modification on Streaming Potential in a Cylindrical Pore"
+ },
+ "241":{
+  "Speakers": "Nishab Ali, Saifullah Saifullah, Arun Chand and Andallib Tariq",
+  "Topic": "Pressure Calculation from stereo-PIV Data in a Two-pass Rectangular Duct before and at a Sharp 180° bend"
+ },
+ "279":{
+  "Speakers": "Aniruddha Diggiwal, Subhra Datta and Bahni Ray",
+  "Topic": "Time Dependent Growth of Lubricant-Depleted Region in Lubricant-infused surfaces"
+ },
+ "287":{
+  "Speakers": "Anant Singhal, Deepak Kumar Agarwal, T. John Tharakan and S. Sunil Kumar",
+  "Topic": "Numerical Study of Nozzle Exhaust Plume Impingement on Flat Plate under Low Pressure Environment"
+ },
+ "291":{
+  "Speakers": "Mahesh Sawardekar and Ratnesh Shukla",
+  "Topic": "An Adaptive Sharp Interface Immersed Boundary Technique for coupled Fluid-Rigid body dynamics"
+ },
+ "323":{
+  "Speakers": "Syed Ahsan Haider, Rohit and Abhishek Raj",
+  "Topic": "Retention Force of Substrates"
+ },
+ "325":{
+  "Speakers": "Dhanalakshmi Sellan, Sidharth K Pillai, Sayak Banerjee and Saravanan Balusamy",
+  "Topic": "Effect of hydrogen blending with LPG and methane on premixed and stratified turbulent flames"
+ },
+ "327":{
+  "Speakers": "Anirudh Pratap Singh, Laraib Quamar, Syed Anwer, Saleem Khan and Mubashshir A. Ansari",
+  "Topic": "On the Recommendations of Using AI for Dimensionality Reduction in Fluid Flow"
+ },
+ "334":{
+  "Speakers": "Dinesh Reddy Koppula and Bogala Konda Reddy",
+  "Topic": "Estimation of inlet conditions of fluid flow in a thick pipe using inverse technique"
+ },
+ "339":{
+  "Speakers": "Suman Kumar, Navneet Kumar and Abdus Samad",
+  "Topic": "Wave-structure interaction dynamics of a point absorber wave energy converter"
+ },
+ "358":{
+  "Speakers": "Santhosh R, Arun Pattanshetti and Shivansh Chaturvedi",
+  "Topic": "Effect of Confinement in Coaxial Swirling Jets: Numerical study"
+ },
+ "360":{
+  "Speakers": "Yadu Narendran, K Natesan, K Devan and A. John Arul",
+  "Topic": "Investigation of inlet blockage in the central subassembly of a sodium cooled fast reactor"
+ },
+ "376":{
+  "Speakers": "Makrand Rakshe, Ketaki Bachal, Abhijit Majumder and Prasanna Gandhi",
+  "Topic": "Spontaneous re-arrangement of evaporating suspension into mesh- patterns for lab-on-chip application"
+ },
+ "408":{
+  "Speakers": "Khemraj Deshmukh and Arindam Bit",
+  "Topic": "Influence of Cryogenic Temperature on degradation of step graded scaffold: A CFD Study"
+ },
+ "424":{
+  "Speakers": "Neha Jain and Gaurav Sharma",
+  "Topic": "Effect of strength of base flow on the evolution of surfactant laden film inside a vertical tube"
+ },
+ "445":{
+  "Speakers": "Bhavesh Shamnani, Ayush Jaiswal, Bhavna M, Mahir Goel, Mayank Shukla, Neetu Tiwari and Ajit Kumar Dubey",
+  "Topic": "Temporal Interpolation of flow fields for knocking combustion using CNN"
+ },
+ "456":{
+  "Speakers": "Amitesh Sharma, Sushant Thakur, Prashant Dhiman and Rakesh Thakur",
+  "Topic": "Performance exploration of impinging jet solar air heater: A comparative study"
+ },
+ "457":{
+  "Speakers": "Ajeesh Mohan T, Jithin M and Malay K. Das",
+  "Topic": "Effect of Hierarchical Porous Media on Specific Capacity and Energy Density of Li-O2 Battery"
+ },
+ "466":{
+  "Speakers": "Surendra Singh Ratnu and Hrishikesh Gadgil",
+  "Topic": "Effect of Rheology on Liquid Sheet Fragmentation"
+ },
+ "479":{
+  "Speakers": "Rituraj Singh and Roman Trobec",
+  "Topic": "Improved MLPG Method for Potential Flow Problem"
+ },
+ "488":{
+  "Speakers": "Rohit Kumar Sahu, Bhupendra Kumar Gandhi and Lila Dhar Pandey",
+  "Topic": "Sediment erosion of downstream labyrinth ring of a Francis turbine"
+ },
+ "521":{
+  "Speakers": "Kuldeep Tolia and Kameswararao Anupindi",
+  "Topic": "Conjugate Heat Transfer Simulations Using Characteristic-based Off-Lattice Boltzmann Method"
+ },
+ "524":{
+  "Speakers": "Ankur Mishra and Chennu Ranganayakulu",
+  "Topic": "Numerical analysis of generation of Colburn-j factor for the Pin fins of a compact heat exchanger using CFD approach"
+ },
+ "532":{
+  "Speakers": "Faiz Azhar Masoodi and Rahul Goyal",
+  "Topic": "Capability assessment of URANS turbulence models for simulation of vortex rope related flow defect in a model Francis turbine"
+ },
+ "542":{
+  "Speakers": "Salman Pathan, Faiz Khan, Ramakant Pandey and Abhishek Bhagwat",
+  "Topic": "Melting Performance of Scaled Cesaro Fin in Latent Heat Thermal Energy Storage"
+ },
+ "551":{
+  "Speakers": "Nitin Singh and Navrose Navrose",
+  "Topic": "Design and Simulation of Hybrid Airfoils for Wind turbine"
+ },
+ "552":{
+  "Speakers": "Mradul Ojha, Dr. Lalit Kumar and Dr. Rajneesh Bhardwaj",
+  "Topic": "Numerical modeling of a binary droplet on solid surface"
+ },
+ "579":{
+  "Speakers": "Sanjay Kumar Gupta, Aman Bakshi, Rachit Bundiwal and K. P. Shanmugadas",
+  "Topic": "Characterization of the spray flow field at the exit of a pintle injector"
+ },
+ "590":{
+  "Speakers": "Devendra Singh, Suman S., Vishesh V. and Jayahar Sivasubramanian",
+  "Topic": "Numerical Investigation of High Speed Flows over the HIFiRE-1 Flight Research Vehicle"
+ },
+ "593":{
+  "Speakers": "Mohammed Akbar and Prabhat Dattakumar Phondekar",
+  "Topic": "Design and Analysis of Optimized Solid Propellant Grain"
+ },
+ "594":{
+  "Speakers": "Arindam Mandal, Rajosik Adak and Sandeep Saha",
+  "Topic": "Performance enhancement of a 100 watts class Tesla turbine"
+ },
+ "604":{
+  "Speakers": "Vikas Kumar Sharma, Smita Gupta, Anugrah Singh and Pankaj Tiwari",
+  "Topic": "Experimental Investigation of Suspension Transport Through Porous Medium"
+ },
+ "608":{
+  "Speakers": "Ravi Kant, Avishek Ranjan and Atul Shrivastava",
+  "Topic": "Velocity measurement for low Hartmann magneto-convection on a vertical wall using UDV"
+ },
+ "614":{
+  "Speakers": "Sangram Kumar Samal and Sandip Kumar Saha",
+  "Topic": "Novel Tree-Branching Microchannel Heat Sink Under Variable and Constant Fluid Volume Approaches"
+ },
+ "623":{
+  "Speakers": "Falguni Charde, Prakhar Adarsh, Anansh Gupta, Lalit Chacharkar, Mahesh Goudar and Pramod Kothmire",
+  "Topic": "Experimental Investigation on Vertical Farming Structure equipped with Electronic Controls"
+ },
+ "636":{
+  "Speakers": "Samarendu Biswas, Mithun Das and Aranyak Chakravarty",
+  "Topic": "Experimental investigation of vapour bubble condensation in subcooled water using different nozzles"
+ },
+ "646":{
+  "Speakers": "Krishan Chand, Mukesh Sharma and Arnab Kr. De",
+  "Topic": "Heat transfer mechanism in roughness aided tilted Rayleigh-Bénard convection"
+ },
+ "694":{
+  "Speakers": "Javed Mohd and Debopam Das",
+  "Topic": "Development of Tomographic Background Oriented Schlieren technique for 3D density measurement in buoyant plumes"
+ },
+ "708":{
+  "Speakers": "Santosh Kumar Singh and Pankaj Kumar",
+  "Topic": "A spatial evolution of wind generated waves under steady wind forcing"
+ },
+ "748":{
+  "Speakers": "Adhitya Krishnan and Murali R. Cholemari",
+  "Topic": "Flux Enhancement due to the Modification of the Large Scales in an Axially Homogeneous Turbulent Convection"
+ },
+ "752":{
+  "Speakers": "Diganjit Rawal and Dr. Gnanasekaran N.",
+  "Topic": "Performance evaluation of single pass solar air heater with stepped type arrangement of metal foam by a numerical study"
+ },
+ "793":{
+  "Speakers": "Chanchal Gupta, Vikram G., Amit Kumar Chauhan and Natesan K.",
+  "Topic": "Optimization of flow rate distribution in IHX of FBR 1&2 using PINET Code"
+ },
+ "836":{
+  "Speakers": "Parikshit Badhe, Hrithik Kale, Rohan Drave, Aishwarya K P, Janardhan Gadde, Shany Joseph, Shankar Krishnan and Milind Atrey",
+  "Topic": "Design, fabrication, and thermal performance evaluation of cold plates for high-performance computing"
+ },
+ "847":{
+  "Speakers": "Lekhraj Malviya and Ram Prakash Bharti",
+  "Topic": "Hydrodynamics of power-law fluids over a pair of side-by-side rotating circular cylinders"
+ },
+ "849":{
+  "Speakers": "Tanmay Agrawal, Narsing K Jha and Vamsi Chalamalla",
+  "Topic": "Improvement in sealing effectiveness of air curtains using positive buoyancy"
+ },
+ "852":{
+  "Speakers": "Nishab Ali, Arun Chand and Andallib Tariq",
+  "Topic": "Effect of Dean Vortices Development on the Heat Transfer Characteristics across a Sharp 180° bend"
+ },
+ "865":{
+  "Speakers": "Souvik Pabi, Md. Kaleem Khan and Abhishek Raj",
+  "Topic": "Numerical investigation of the pulsatile flow of non-Newtonian biofluid through a rigid stenosed channel"
+ },
+ "895":{
+  "Speakers": "Suhas Jagtap and Manish Mishra",
+  "Topic": "Fluid Flow and Heat Transfer Characteristics in Empty, Finned and Packed Bed Rectangular Duct"
+ },
+ "902":{
+  "Speakers": "Priyambada Praharaj, Chandrakant Sonawane and Anand Pandey",
+  "Topic": "Numerical Simulation of Pulsatile Flow through Coronary Artery Stenosis using High Accurate CFD Solver"
+ },
+ "930":{
+  "Speakers": "Pinku Debnath, Ronald Debbarma and Anmol Ratan",
+  "Topic": "Numerical study for the improvement of performance of Savonius wind turbine having elliptical blades"
+ },
+ "956":{
+  "Speakers": "Debiprasad Chakrabarty, Niladri Chakraborty and Ranjan Ganguly",
+  "Topic": "2-Dimensional, magnetic actuation of ferrofluid droplet on an open surface-microfluidic platform"
+ },
+ "959":{
+  "Speakers": "Nikhil Mane, Siddhartha Tripathi and Vadiraj Hemadri",
+  "Topic": "Experimental Investigation of PHP with Hybrid Nanofluid for EV Battery Thermal Management"
+ },
+ "967":{
+  "Speakers": "Prabir Kumar Kar, Ujjwal Chetan, Toshan Lal Sahu, Saurabh Dhopeshwar, Prasanta Kumar Das and Rajaram Lakkaraju",
+  "Topic": "Enhanced heat transport with protrusion in partitioned thermal convection"
+ },
+ "1026":{
+  "Speakers": "Tara Chand Kumar Maurya and Sushanta Dutta",
+  "Topic": "Experimental investigation of secondary flow during droplet’s formation in the Co-flow channel"
+ },
+ "1028":{
+  "Speakers": "Kartika Chandra Tripathy and Ajay Bhandari",
+  "Topic": "Highlighting the importance of nasal air conditioning in septoplasty using virtual correction tools: A numerical study"
+ },
+ "1054":{
+  "Speakers": "Dr.Bhaskar Jyoti Medhi, Dr.Anugrah Singh, Dr.Bhaskor Jyoti Bora, Dr.Prabhakar Sharma and Dr.Debabrata Barik",
+  "Topic": "µ-PIV\/ PTV measurement of suspensions in symmetric diverging-converging micro channel"
+ },
+ "1068":{
+  "Speakers": "Nandan Saha, B Gera, Vishnu Verma and J Chattopadhyay",
+  "Topic": "Numerical Studies to Assess the Effect of Simulated Recombiner on Helium Distribution and Mixing in a Scale down Containment Facility, CSF"
+ },
+ "1078":{
+  "Speakers": "Biplab Ranjan Adhikary, Ananya Majumdar, Subhadeep Sarkar and Partha Bhattacharya",
+  "Topic": "Sensitivity mapping of TBL wall-pressure spectra with CFD turbulence models for wind tunnel test result prediction"
+ },
+ "1088":{
+  "Speakers": "Rahul R, Aishwarya V, Nikhil Prasad, Mini R S and Ranjith S Kumar",
+  "Topic": "Design and Development of Thermoplastic Microfluidic Device for Argentometric Mohr Method"
+ },
+ "1118":{
+  "Speakers": "Ketan Ganatra and Achintya Mukhopadhyay",
+  "Topic": "Numerical Study of SiO2 – Water Nanofluid Jet Impingement on Heated Surface"
+ },
+ "1126":{
+  "Speakers": "Shivakumar Kandre and Dhiraj V. Patil",
+  "Topic": "Normal collision of a single-dipole of vortices with a flat boundary"
+ },
+ "1148":{
+  "Speakers": "Vivek K. Mishra, Saroj K. Panda, Biswanath Sen, M.P. Maiya and Dipti Samantaray",
+  "Topic": "VOF Simulations of Evaporation and Condensation Phenomenon inside a Closed-loop Thermosyphon"
+ },
+ "1165":{
+  "Speakers": "Rahul Tarodiya and Bhupendra Kumar Gandhi",
+  "Topic": "3D Numerical Flow Field Investigation of Centrifugal Slurry Pump with Water"
+ },
+ "1189":{
+  "Speakers": "Rajanya Chatterjee, Chhote Lal Shah, Sayan Gupta and Sunetra Sarkar",
+  "Topic": "Role of Piezoelectric Coupling Factor on FIV-based Energy Harvesting of a Piezoelectric Flag"
+ },
+ "1212":{
+  "Speakers": "Pratibha Dogra and Ram Prakash Bharti",
+  "Topic": "Hydrodynamics of droplet generation under squeezing regime in a T-junction cylindrical micro-fluidic system."
+ },
+ "1218":{
+  "Speakers": "Aiswarya A Satheesan, Nikhil Prasad, Nevin Nelson, Niranjan S and Anjan R Nair",
+  "Topic": "Numerical Analysis on the Effect of Aspect Ration in a diesel Injector Using Diesel and Ethanol Diesel Blend"
+ },
+ "1220":{
+  "Speakers": "Adinarayana K.N.V., Mangarjuna Rao P and Mansoor Ali Seik",
+  "Topic": "Numerical Predictions of Two-Phase Natural Circulation Loop Transients using DFM and HEM based Models"
+ },
+ "1225":{
+  "Speakers": "Prakash Kurakula A N S, Sk Abdul Zakaria, Avinash Reddy B and Tamal Jana",
+  "Topic": "Impact of Roughness Strip Location on Improving Aerodynamic Characteristics of Circular Cylinder"
+ },
+ "1260":{
+  "Speakers": "Prateek Gupta, Rakesh Kumar, Sibasish Panda and Mohammed Riyan",
+  "Topic": "Thrombosis modelling in a stenosed artery"
+ },
+ "1262":{
+  "Speakers": "Animesh Patari, Shantanu Pramanik and Tanmoy Mondal",
+  "Topic": "Comparative Study of Turbulent Heat Transfer in Plane Wall Jet Using Different k-ε RANS Models"
+ },
+ "1294":{
+  "Speakers": "Ribhu Pal, Velan Ramu, Arnab Roy and Pabitra Halder",
+  "Topic": "Numerical Studies of Shock-Wave\/Turbulent Boundary layer Interaction in Shock-Wave Diffraction for different Shock Mach Number"
+ },
+ "1300":{
+  "Speakers": "Sahaj Jain and Danesh Tafti",
+  "Topic": "Implementation of the Accurate Conservative Phase Field Method for two-phase incompressible flows in a finite volume framework"
+ },
+ "1319":{
+  "Speakers": "Upendra Yadav and Amit Agrawal",
+  "Topic": "Analytical Solution of Cylindrical Couette Flow Problem using O13 Governing Equations"
+ },
+ "1329":{
+  "Speakers": "Yakub A and Santhosh K S",
+  "Topic": "ANALYSIS OF COUNTER FLOW SERPENTINE COOLING CHANNELS IN Li ion BATTERY COOLING SYSTEM"
+ },
+ "1340":{
+  "Speakers": "Sidhartha Sondh, Darshit Upadhyay, Sanjay Patel and Rajesh Patel",
+  "Topic": "Numerical Simulation of Gasification and Plasma Pyrolysis Process for Lignite Coal – A Comparative Study"
+ },
+ "1356":{
+  "Speakers": "Ketan Vinayak Warghat, Aditya Kumar Tiwari, Yogesh Biswal, G. Mahesh Nayak, Saravanan Balusamy and Pankaj Sharadchandra Kolhe",
+  "Topic": "Availability Analysis of Diesel-Powered CI Engines with Single and Multiple Injection Strategies"
+ },
+ "1360":{
+  "Speakers": "Mintu Kumar Mahato and Shailendra Narayan Singh",
+  "Topic": "Experimental analysis of cross flow inline jet plate solar air heater."
+ },
+ "1366":{
+  "Speakers": "Manoj Kumar Diwaker and Arvind Kumar",
+  "Topic": "An Updated Review of Heat Transfer Enhancement Techniques in Tube Type Heat Exchangers"
+ },
+ "1376":{
+  "Speakers": "Shivayya C. Hiremath, Rohit Kumar, Chandan Nashine, Arman Mohaddin Nadaf and Manmohan Pandey",
+  "Topic": "Numerical Analysis of Heat Transfer and Fluid flow in Microchannel Heat sinks Designed for Uniform Cooling"
+ },
+ "1381":{
+  "Speakers": "Arun Chand, Nishab Ali and Andallib Tariq",
+  "Topic": "Effect of divider wall shape on the primary and secondary flow development in a two-pass duct"
+ },
+ "1383":{
+  "Speakers": "Arshan Khan, Paresh Chokshi and Premananda Bera",
+  "Topic": "Linear instability analysis of natural convection in a heated vertical porous annulus"
+ },
+ "1402":{
+  "Speakers": "Deepak Kumar Mishra, Raghvendra Gupta and Anugrah Singh",
+  "Topic": "Coalescence of Disc-Shaped Falling Droplets Inside Quiescent Liquid Media"
+ },
+ "1409":{
+  "Speakers": "Prantik Das and Vivek V. Buwa",
+  "Topic": "Eulerian Two-Fluid Simulations of Liquid-Solid Slurry Flow through a Horizontal Pipeline"
+ },
+ "1421":{
+  "Speakers": "Kartikay Gupta, Neeraj Goyal, Syed Ahsan Haider, Rohit and Abhishek Raj",
+  "Topic": "Machine Learning aided Determination of Young’s Modulus of Polydimethylsiloxane (PDMS) Membranes using Droplet Indentation"
+ },
+ "1430":{
+  "Speakers": "Thota S S Bhaskara Rao and S Murugan",
+  "Topic": "Energetic and exergetic performance of an evacuated tube U-type solar collector for medium temperature industrial process air heating: An experimental study"
+ },
+ "1439":{
+  "Speakers": "Sourav Dey, Dipanjan Majumdar and Sunetra Sarkar",
+  "Topic": "Chaotic Onset in the Flow Past a Flapping Foil Depends on the Free-stream Reynolds Number"
+ },
+ "1440":{
+  "Speakers": "Karthik Vel E, Sanchay Vandish, Mugil Ramesh, Samar Pratap Rai and Nadaraja Pillai S",
+  "Topic": "Experimental Investigation of trailing edge surface roughness on the aerodynamic characteristics of the wind Turbine Blades"
+ },
+ "1471":{
+  "Speakers": "Kamlesh Kumar and Deepu P",
+  "Topic": "Response of a collapsible tube carrying flow with and without stenosis"
+ },
+ "1473":{
+  "Speakers": "Prateechee Padma Behera, Shubham Kumar, Monika Kumari, Pranab Kumar Mondal and Ravi Kumar Arun",
+  "Topic": "Gold Nanoparticle-Antibody Bio-probe Analysis: Synthesis, Conjugation, Characterization and Dot Blot Assay on Paper"
+ },
+ "1480":{
+  "Speakers": "Raj Kumar Mishra, Sandeep Kumar and Bhupendra Kumar Gandhi",
+  "Topic": "HYDRAULIC EFFICIENCY MEASUREMENT OF CENTRIFUGAL PUMP BY THERMODYNAMIC METHOD"
+ },
+ "1529":{
+  "Speakers": "Subham Pal",
+  "Topic": "Modified long-wave analysis of viscoelastic liquid flowing down an incline with an imposed shear on the surface"
+ },
+ "1531":{
+  "Speakers": "Chandan Nashine and Manmohan Pandey",
+  "Topic": "Transient Numerical Modeling of a Miniature Loop Heat Pipe"
+ },
+ "1536":{
+  "Speakers": "Sai Bhargav Pochinapeddi, Muddada Ganapathi and K. Arul Prakash",
+  "Topic": "Effect of housing design modifications on fluid flow and heat transfer characteristics of electrical motor casing: A numerical study"
+ },
+ "1568":{
+  "Speakers": "Gurjeet Singh",
+  "Topic": "Numerical Investigations on the Thermal Management of Prismatic Li-ion Batteries Using Air-Cooling"
+ },
+ "1577":{
+  "Speakers": "Sumit Tripathi",
+  "Topic": "Effects of power law fluid characteristics on core-annular flow in a horizontal pipe"
+ },
+ "1617":{
+  "Speakers": "Amit Yadav, Varghese Thannickal, John Tharakan and Assiz Mp",
+  "Topic": "Evaluation of the Flame Transfer Function of a Methane-Oxygen Diffusion Flame"
+ },
+ "1632":{
+  "Speakers": "Sourabh Dhawan, Pawan Kumar Pandey, Malay Kumar Das and Pradipta Kumar Panigrahi",
+  "Topic": "A computational analysis of the impact of blood’s viscoelastic properties on the hemodynamics of a stenosed artery"
+ },
+ "1643":{
+  "Speakers": "Beauty Pandey and Daya Shankar",
+  "Topic": "Study of Microstructural Modifications in Electrodeposited Diamond-like Carbon Thin Films with Varying Deposition Time and Nickel Incorporation"
+ },
+ "1660":{
+  "Speakers": "Saqib Jamshed and Amit Dhiman",
+  "Topic": "Wake interactions around a pair of porous cylinders in a side-by-side arrangement in channel flow"
+ },
+ "1663":{
+  "Speakers": "Dheeraj Kumar and Apurba Layek",
+  "Topic": "Experimental study to determine the effect of staggered distance on the Nusselt number and friction charactertics of solar air heater using LCT technique"
+ },
+ "1708":{
+  "Speakers": "Mahesh R. Thombare, Suryansh Gupta and Nagesh D. Patil",
+  "Topic": "Evaporation dynamics of bidispersed colloidal suspension droplets on hydrophilic substrates under different relative humidity and ambient temperature"
+ },
+ "1714":{
+  "Speakers": "Debajyoti Kumar and Somnath Roy",
+  "Topic": "Numerical investigation of two-dimensional laminar flow over rough cylinders using Immersed Boundary Method on multiblock-multimesh framework"
+ },
+ "1725":{
+  "Speakers": "Atanu Dolai, Prasad Boggavarapu and Ravikrishna Rayavarapu",
+  "Topic": "Change in vortex breakdown mode and it’s influence on flame shape of a co\/counter concentric swirling streams"
+ },
+ "1742":{
+  "Speakers": "Mohit Raje and Amit Dhiman",
+  "Topic": "Study on the Impact of Fin Diameter on Thermal and Hydraulic Behaviour of Annular Finned Tubes in Crossflow using 3D CFD Simulations"
+ },
+ "1776":{
+  "Speakers": "Sreethin Sreedharan Kallyadan and Priyanka Shukla",
+  "Topic": "Rigid-vortex configurations of four point vortices"
+ },
+ "1802":{
+  "Speakers": "Mangesh Chaudhari and Omkar Gaonkar",
+  "Topic": "A numerical investigation for heat transfer enhancement of synthetic jet using convergent and divergent shape orifice geometry"
+ },
+ "1810":{
+  "Speakers": "Ritesh Kumar, Badyanath Tiwary and Pawan Kumar Singh",
+  "Topic": "Effect of varying Branch angle in Branched Wavy Heat Sinks: Thermo-hydraulic Performance Investigation"
+ },
+ "1815":{
+  "Speakers": "Deepak Prajapat, Ruchi Khare and Shyam N. Shukla",
+  "Topic": "Evaluation of the effect of diffuser vanes on performance of multistage pump using numerical simulation"
+ },
+ "1837":{
+  "Speakers": "Kailashnath B, Harisankar J, Anirudh Renganathan, Karthik Vel E, Vinayagamurthy G and Nadaraja Pillai S",
+  "Topic": "A Study on the Aerodynamic Characteristics and the Flow Separation of a Circular Cylinder with Longitudinal Ridges"
+ },
+ "1839":{
+  "Speakers": "A. Surya, N. Nallusamy, R. Prakash and M. Chandraesh",
+  "Topic": "Performance Evaluation of a Thermal Energy Storage System with Stainless Steel Encapsulated Phase Change Material"
+ },
+ "1842":{
+  "Speakers": "Abhishek Kumar Singh and Krishna Singh",
+  "Topic": "Analysis of Irregular Node Distribution in Meshless local Petrov-Galerkin Method"
+ },
+ "1846":{
+  "Speakers": "Arun Uniyal and Yogesh K. Prajapati",
+  "Topic": "Comparative CFD analysis of heat transfer and melting characteristics of the PCM in enclosures with different fin configurations"
+ },
+ "1848":{
+  "Speakers": "Vikrant Dupade, B. Premachandran, R. S. Rengasamy and Prabal Talukdar",
+  "Topic": "Study on thermal conductivity of thermal bonded high bulk hollow fibre nonwoven under the extreme cold weather condition"
+ },
+ "1859":{
+  "Speakers": "Venna Seshi Reddy, Vijender Singh, Nikhil A. Baraiya and Vimal K. Patel",
+  "Topic": "Review on Performance Assessment of Centrifugal Compressors"
+ },
+ "1922":{
+  "Speakers": "Sri Hari Vishnubhatla and Murali Cholemari",
+  "Topic": "Experimental Observations on Turbulent Drag Reduction using Shear Free Surfaces"
+ },
+ "1926":{
+  "Speakers": "Sunil Kumar, Visakh Vaikuntanathan, Nishant Mishra and Santanu Mitra",
+  "Topic": "Comparison of Analytical Wake Models with CFD Study of Savonius Vertical Axis Wind Turbine"
+ },
+ "1944":{
+  "Speakers": "Rakesh L, Arun Kadali, Prakashini K and Anish S",
+  "Topic": "Effect of Induced Helicity on the Hemodynamics of Carotid Artery Passage"
+ },
+ "1951":{
+  "Speakers": "K Suresh, Gopan C K and Jayesh K G",
+  "Topic": "Establishment of long term stability of gravimetric flow calibration system through periodic inter-laboratory comparisons"
+ },
+ "1959":{
+  "Speakers": "Gautam Gautam, Anupam Chaudhary, Aditya Singh and Satyabrata Sahoo",
+  "Topic": "Modeling and Simulation of Cylindrical and Spherical Adsorbent Reactors for Maxsorb III-CO2 pair-based Adsorption Heat Pumps"
+ },
+ "1984":{
+  "Speakers": "Piru Mohan Khan, Siddharth D. Sharma and Somnath Roy",
+  "Topic": "Effect of Pulse rate on the Vortex Formation and Wall Shear Stress Distribution in a Healthy and Constricted Carotid Artery"
+ },
+ "2008":{
+  "Speakers": "Tridibesh Chattoraj, Avishek Chatterjee, Anik Saha, Tibin M. Thomas, Pallab Sinha Mahapatra and Achintya Mukhopadhay",
+  "Topic": "Numerical Modelling of Condensing Pair of Droplets using Point Sink Superposition Method."
+ },
+ "2016":{
+  "Speakers": "Saddam Hossain Mullick, Durgesh Kushwaha, Debabrata Dasgupta and Pranab Kumar Kundu",
+  "Topic": "Numerical examination of entropy formation during natural convection inside a square enclosure heated non-uniformly from top"
+ },
+ "2051":{
+  "Speakers": "Harisri M. Thulasi, Akshay B. Menon, Prashant K. Jaiswara and Sachin Yashavant Shinde",
+  "Topic": "Effect of flexible flap length on flow generation by an airfoil pitching in quiescent fluid"
+ },
+ "2093":{
+  "Speakers": "Est Dev Patel and Subrata Kumar",
+  "Topic": "Non-uniform Channel Pulsating Heat Pipe Designs for Electronics Cooling"
+ },
+ "2104":{
+  "Speakers": "Saurabh Powar, Neha Chitrakar, Lalit Chacharkar, Prakhar Adarsh, Shankar Karhale, Rohan Patil and Pramod Kothmire",
+  "Topic": "Effect of Surface Roughness on Boundary Layer Thickness"
+ },
+ "2128":{
+  "Speakers": "Adarsh R Nair, K. Nandakumar Chandran and S Kumar Ranjith",
+  "Topic": "Numerical investigation on hydrodynamics of lubricant infused hydrophobic microchannel with transversely oriented cavities"
+ },
+ "2134":{
+  "Speakers": "Preeti Suri and Swati A Patel",
+  "Topic": "Effect of shapes of particle on drag and heat transfer in confined flow"
+ },
+ "2144":{
+  "Speakers": "Pawan Sharma, Prakhar Bharadwaj, Kshitij Bhat, K. A. Vyvaswath, Bhavya Dalal, Pradeep Singh, Santosh K. Sahu and Harekrishna Yadav",
+  "Topic": "Understanding the Heat Transfer characteristics and Axis Switching phenomenon in High Aspect Ratio Elliptical orifice impinging Synthetic Jets"
+ },
+ "2160":{
+  "Speakers": "Jeyapradhap Thirisangu, Varun Kumar Rajendran, Abaethan Saravanabhava and Karthick Subramani",
+  "Topic": "Experimental investigation of acoustic wave acting on inhomogeneous fluid and droplets in a minichannel"
+ },
+ "2179":{
+  "Speakers": "Priyaranjan Sahoo, Javed Shaikh, Nagesh D Patil and Purnendu Das",
+  "Topic": "Influence of Contact Line Velocity Implementation in Dynamic Contact Angle Models for Droplet Bouncing and Nonbouncing Dynamics on a Solid Substrate"
+ },
+ "2195":{
+  "Speakers": "Yagya Narayan and Rajneesh Bhardwaj",
+  "Topic": "Droplet impact and wetting on a micropillared surface"
+ },
+ "2204":{
+  "Speakers": "Sayantan Biswas, Vikas Singh and Vivek Buwa",
+  "Topic": "Eulerian Multi-fluid Simulations of Liquid-Phase Mixing in Basic Oxygen Furnace: Effect of Slag Layer"
+ },
+ "2245":{
+  "Speakers": "Ashish R, Raghuvara K Hebbar, Prateek T N, Karthik R Kashyap and Dr Rajendra Prasad K S",
+  "Topic": "Numerical Investigation of Inertance type Pulse Tube Cryocooler for Space Applications"
+ },
+ "2257":{
+  "Speakers": "Mohammad Farhan, Vipul Kumar Gupta and Pradeep Kumar Jha",
+  "Topic": "Effect of Inlet Position and Transverse wall Inclination on the Behaviour of Inclusions in Four-Strand Curved Shaped Tundish for Steelmaking"
+ },
+ "2258":{
+  "Speakers": "Mohd. Tousif, A. Harish and Vasudevan Raghavan",
+  "Topic": "Combustion of Entrained Coal Dust in Preheated Air"
+ },
+ "2284":{
+  "Speakers": "Ambuj Jha and Amit Agrawal",
+  "Topic": "Influence of Axial Conduction on Heat Transfer Characteristics of Gaseous Flows in Continuum and Slip Flow Regime"
+ },
+ "2307":{
+  "Speakers": "Supreme Das, Agnimitra Biswas and Biplab Das",
+  "Topic": "Numerical investigation on the thermal performance of solar air heater with jet impingement on absorber plate through tapered nozzles"
+ },
+ "2312":{
+  "Speakers": "Guguloth Mahesh Nayak, Abinash Biswal, Yogesh Biswal, Ketan Vinayak Warghat, Pankaj S Kolhe and Saravanan Balusamy",
+  "Topic": "An experimental investigation into the GDI spray characteristics of ethanol and lemon peel oil"
+ },
+ "2320":{
+  "Speakers": "Arshdeep Singh and Vijay Shankar",
+  "Topic": "Analytic Review of Fundamental Research in Turbulence-Sediment Interactions"
+ },
+ "2326":{
+  "Speakers": "Md Shadab Hasan, Kamlesh Kumar and Deepu P",
+  "Topic": "Response of a partially submerged pendulum under gravity waves"
+ },
+ "2342":{
+  "Speakers": "Vivek Sahu, Devin Chugh, Deepanshu Mittal and Shanmugadas K P",
+  "Topic": "Effect of Secondary Swirl Strength on the External Aerodynamics of a Gas Turbine Fuel Injector"
+ },
+ "2358":{
+  "Speakers": "Jathaveda Maktal, Kunal Garg and Vidya Gurumurthy",
+  "Topic": "Aerodynamic characterisation of a winged Re Entry Vehicle at select Mach numbers and angles of attack through CFD simulations"
+ },
+ "2379":{
+  "Speakers": "Saikrishna Nadella and Naresh Kumar Maheshwari",
+  "Topic": "CFD Modelling of High Pressure Subcooled Flow Boiling in Vertical Pipe"
+ },
+ "2389":{
+  "Speakers": "D B Singh, Gireesh Yanamashetti, G K Suryanarayana and G Jagadeesh",
+  "Topic": "Unsteady phenomena over the payload region of a launch vehicle under accelerating transonic flow"
+ },
+ "2392":{
+  "Speakers": "Abhijeet Vaidya, Alok Kumar and Sunil Kumar Sinha",
+  "Topic": "Wind Load Calculation on Hyperbolic Reflector of Beam-Down Solar Plant using CFD"
+ },
+ "2417":{
+  "Speakers": "Shani Saha, Rohit Sherawat, Arvind Kumar, Neeraj Kumbhakarna and Arindrajit Chowdhury",
+  "Topic": "Effect of Copper Chromite on Ammonium Perchlorate Decomposition-A TGA-FTIR-MS Study"
+ },
+ "2444":{
+  "Speakers": "Praveen Kumar Nuvvula, Amar Yadav, Pawan Kumar Karn, Rijin Rajan, Javed Mohd. and Debopam Das",
+  "Topic": "Experiments on Compressible Vortex Ring Interaction with a Cone Mounted on a Flat Plate"
+ },
+ "2455":{
+  "Speakers": "Ayush Painuly, Niraj Mishra and Prabhakar Zainith",
+  "Topic": "Numerical investigation of exergy and entropy analysis for W\/EG based non-Newtonian hybrid nanofluid for helically corrugated tube heat exchanger"
+ },
+ "2459":{
+  "Speakers": "Hareesh Krishnaa R S and Vikram G",
+  "Topic": "Preliminary Simulation of FFTF LOFWOS Test #13 using PINET Code"
+ },
+ "2462":{
+  "Speakers": "Dhaval T Solanki and Dharmendra S Sharma",
+  "Topic": "Potential flow around square cylinder with rounded corners"
+ },
+ "2479":{
+  "Speakers": "N. Shiva, Nilojendu Banerjee and Satyanarayanan Seshadri",
+  "Topic": "Multiphase Modelling of Thin Film Flow over the Vertical Plate under Gravity in Pseudo-laminar Region"
+ },
+ "2491":{
+  "Speakers": "Kshitija Mirkale and Ashis Kumar Sen",
+  "Topic": "Role of Droplet Encapsulation of Cell in Microflow Cytometer"
+ },
+ "2492":{
+  "Speakers": "Arun Periyal, Ritwik Ghoshal and Vaibhav Joshi",
+  "Topic": "Influence of a Non-Linear Gravity Pendulum on a Cylinder Undergoing Two-Dimensional Vortex Induced Vibrations"
+ },
+ "2539":{
+  "Speakers": "Dishant Sharma and Rahul Goyal",
+  "Topic": "Numerical Simulation and Validation of NACA0012 Airfoil to Predict its Performance during the Stalling Condition"
+ },
+ "2550":{
+  "Speakers": "Jude Ogbonna, Ferran Garcia, Thomas Gundrum and Frank Stefani",
+  "Topic": "Rotating Waves Arising from the Instability of Magnetized Spherical Couette Flows"
+ },
+ "2566":{
+  "Speakers": "Arnov Paul and Purbarun Dhar",
+  "Topic": "Evolution of Marangoni thermo-hydrodynamics within evaporating sessile droplets"
+ },
+ "2589":{
+  "Speakers": "Kumar Amit, Ashwani Assam and Abhishek Raj",
+  "Topic": "Hydrodynamics Resistance of Stenosed Deformable Microchannel for Droplet Migration"
+ },
+ "2596":{
+  "Speakers": "Sarvjeet Singh, Jaydip Basak, Prodyut Chakraborty and Hardik Kothadia",
+  "Topic": "Investigation of liquid vaporisation characteristics at low pressure conditions"
+ },
+ "2621":{
+  "Speakers": "Gopinath Sahu, Sameer Khandekar and Krishnamurthy Muralidhar",
+  "Topic": "Thermal Performance Comparison of a Liquid Jet and Spray Impinging on a Pillared Surface"
+ },
+ "2624":{
+  "Speakers": "Swapnil Tupkari, Snehasis Chowdhury, Hrishikesh Gadgil and Vineeth Nair",
+  "Topic": "Large Eddy Simulations (LES) of Supercritical Nitrogen Jets"
+ },
+ "2632":{
+  "Speakers": "Subrat Kumar Nayak, Amitabh Bhattacharya and Prapanch Nair",
+  "Topic": "The time evolution and breakup of a liquid bridge under axial elongation"
+ },
+ "2636":{
+  "Speakers": "Deepika Wadhwa, Pramodt Srinivasula and Rochish Thaokar",
+  "Topic": "Numerical and analaytical studies on partial electrocoalescence of water drop in oil into a pool of water"
+ },
+ "2656":{
+  "Speakers": "Harshad Raghuwanshi, K. R. Aharwal and Narendra Gajbhiye",
+  "Topic": "Effect of Vent Position on Temperature Inhomogeneity inside Apple Storage Package: A Numerical Study"
+ },
+ "2663":{
+  "Speakers": "Amit Yadav, Varghese Thannickal, Assiz Mp, Subhash Pb and Midhun R",
+  "Topic": "Development and Testing of an O2\/CH4 Torch Igniter for LOX-Methane Engines"
+ },
+ "2664":{
+  "Speakers": "Geetika Salwan, Rayapati Subbarao and Subrata Mondal",
+  "Topic": "Experimental Studies on Ti-6Al-4V Alloy for Its Suitability in Gas Turbine Engines"
+ },
+ "2673":{
+  "Speakers": "G S Avinash, Arun Mahalingam and S Anish",
+  "Topic": "Numerical investigation on the effect of particle diameter in a dense suspension flow using Multi Fluid VOF (MVOF) model"
+ },
+ "2692":{
+  "Speakers": "Sunder Dasika, Dipak Vaghani and Ratnesh Shukla",
+  "Topic": "Simulations of a single bubble collapse in a Generalized Newtonian Fluid"
+ },
+ "2697":{
+  "Speakers": "Devendra Raut, Vilas R Kalamkar, Shailendra Ukirde and Ajay Misra",
+  "Topic": "Predicting Effect of Hub to Shroud ratio on NPSH 3% of Pump"
+ },
+ "2703":{
+  "Speakers": "Lavala Srinivasa Rao, Sudip Das and Partha Mondal",
+  "Topic": "Numerical and Experimental Studies on Supersonic Freejet with various cross-sectional tab configuration"
+ },
+ "2708":{
+  "Speakers": "Rahul Ranjan, Akashdeep Singh, Jit Sinha and Sunil Manohar Dash",
+  "Topic": "Effects of Flapping Frequency on the Aerodynamic Performance of the Elliptical Tandem Flapping Wings"
+ },
+ "2712":{
+  "Speakers": "Surendra Kumar, Rajesh Shukla and Sayan Sadhu",
+  "Topic": "Effect of Viscosity on Air Entrapment and Spreading of Molten Droplet in Thermal Spray Coating Deposition"
+ },
+ "2743":{
+  "Speakers": "Bhavin Patel and Rajesh Ranjan",
+  "Topic": "Flow Features of Propeller Wakes Impinging on a circular disk Through Unsteady Simulations"
+ },
+ "2751":{
+  "Speakers": "Svh Nagendra and Dvs Bhagavanulu",
+  "Topic": "Experimental and Numerical Investigation of a Device for Localized Cooling"
+ },
+ "2768":{
+  "Speakers": "Raghvendra Dwivedi and Krishnamurthy Muralidhar",
+  "Topic": "Numerical simulation of Drop Spreading over a Pillared Surface"
+ },
+ "2769":{
+  "Speakers": "Snehalkumar Patel and Harshadkumar Patel",
+  "Topic": "Study of MHD stagnation point flow of Casson fluid with non-linear radiation and non-uniform heat source"
+ },
+ "2814":{
+  "Speakers": "Ramesh Kumar, Manoj Soni and Suvanjan Bhattacharyya",
+  "Topic": "Numerical Analysis of CWSPs on different Streamwise lengths of Pillow-Plate Heat Exchanger"
+ },
+ "2825":{
+  "Speakers": "Neha Mishra, Tony Thomas and Amit Agrawal",
+  "Topic": "Design and Development of Optical Absorbance based Cholesterol Detection in the Microfluidic channel based Blood plasma separation micro-device"
+ },
+ "2837":{
+  "Speakers": "Manthan Mahajan, Nitin Kumar, Deep Shikha, Vamsi K. Chalamalla and Sawan S. Sinha",
+  "Topic": "Application of Machine learning for forced plume in linearly stratified medium"
+ },
+ "2856":{
+  "Speakers": "Sarang Tamhankar, C. S. Mathpati, J.B. Joshi and Rajeev Parmar",
+  "Topic": "Investigation of Bubble Size Distribution in lab-scale Bubble Column using Photographic Method"
+ },
+ "2862":{
+  "Speakers": "Moorthi A, Niraj Uttam, Prem Sai K and Kamaraju Ivns",
+  "Topic": "Simulation of Blowdown through Two Phase Flow Module & Orifice in HTHP Loop using RELAP5\/MOD 3.2"
+ },
+ "2897":{
+  "Speakers": "Kumar Amit, Ashwani Assam and Abhishek Raj",
+  "Topic": "Pressure Flow Characteristics of a Deformable Microchannel with a Superhydrophobic Wall"
+ },
+ "2910":{
+  "Speakers": "Anagh S. Bhanu, Manish K. Mathur, Murali R. Cholemari and Srinivas V. Veeravalli",
+  "Topic": "Design of Rolling Road for Wind Tunnel Simulation"
+ },
+ "2915":{
+  "Speakers": "Kalpana and Sudhakar Subudhi",
+  "Topic": "An experimental analysis of the performance parameters for a compact solar-assisted liquid desiccant cooling system"
+ },
+ "2922":{
+  "Speakers": "Jeetendra Kumar",
+  "Topic": "Probabilistic Risk Assessment of a Cryogenic Turbopump for a Man Rated Mission"
+ },
+ "2928":{
+  "Speakers": "Ramanan C J, Sukanta Roy, Yam Ke San, Garenth Lim King Hann, Bhaskor Jyothi Bora and Bhaskor Jyothi Medhi",
+  "Topic": "Floating Solar PV Systems – Global research reported in the year 2022"
+ },
+ "2954":{
+  "Speakers": "Samarendra Panda, Jangyadatta Pasa, Trushar B Gohil and Venugopal Arumuru",
+  "Topic": "Numerical Investigation on the Flow Behavior of a Coaxial Synthetic Jet in a Quiescent Environment"
+ },
+ "2987":{
+  "Speakers": "Darshan Gohel and Deepu M",
+  "Topic": "Effects of Operating Conditions and Geometry in Augmentation of Initial Transients and Hysteresis in Supersonic Vacuum Ejector"
+ },
+ "2991":{
+  "Speakers": "Selvaraji Muthu, Sekarapandian N and Ashok Kannaiyan",
+  "Topic": "Assessment of waste heat recovery system for highway and off highway engine applications"
+ },
+ "3011":{
+  "Speakers": "Saptaparna Patra, Avik Saha and Arup Das",
+  "Topic": "Effect of Surface Structures on Droplet Impact over Flat and Cylindrical Surfaces"
+ },
+ "3012":{
+  "Speakers": "Ajith M, Kiran Kumar and Thomas Kurian",
+  "Topic": "Two-phase flow analysis on Solid rocket motor and impact of slag accumulation phenomena on thermal insulation"
+ },
+ "3013":{
+  "Speakers": "Siddharth Jena, Shuyang Cao and Ajay Gairola",
+  "Topic": "Numerical Modeling of Temperature-Rise Due to Pedestrian Winds And Mitigation Based on Building Design Modification"
+ },
+ "3015":{
+  "Speakers": "Suraj Raj, S Anil Lal and Anjan R Nair",
+  "Topic": "Numerical Simulation of Flow in an Idealized Intracranial Aneurysm Model to Study the Effect of Non-Newtonian Blood Flow Rheology"
+ },
+ "3016":{
+  "Speakers": "Rajalingam A and Shubhankar Chakraborty",
+  "Topic": "Effect of microstructures in the flow passage on the flow dynamics of microchannel"
+ },
+ "3021":{
+  "Speakers": "Ravikant Kumar and Dr. Ruchi Khare",
+  "Topic": "Numerical Simulation of flow through Sump-Pump"
+ },
+ "3041":{
+  "Speakers": "Shashikant Das and Sudhakar Subudhi",
+  "Topic": "Studying the physiology of the human body using a mathematical model of transient energy balance"
+ },
+ "3049":{
+  "Speakers": "Aditya Ranjan, Vijay S. Duryodhan and Nagesh D. Patil",
+  "Topic": "On the replication of human skin texture and hydration on a PDMS based artificial human skin model"
+ },
+ "3075":{
+  "Speakers": "Ankit Kumar and Nikhil Kumar Singh",
+  "Topic": "Interactions between unequal parallel bubbles rising in a non-Newtonian fluid"
+ },
+ "3093":{
+  "Speakers": "Peddamma Vishwaja and Niranjan Ghaisas",
+  "Topic": "Evaluation of a Shock-Capturing Scheme and a Subgrid-Scale Model in Large Eddy Simulation of Compressible Turbulent Mixing Layers"
+ },
+ "3122":{
+  "Speakers": "Nikhil Babu P, T.J.S Jothi, Jaison Cletus and A.V. Ramesh Kumar",
+  "Topic": "Hydrodynamic Performance and Acoustic Characterization of Cavitating Marine Propeller"
+ },
+ "3132":{
+  "Speakers": "Rupak Bhowmik and Anugrah Singh",
+  "Topic": "Pore-Scale Simulation of Non-Newtonian Two- Phase Flow for Heavy Oil Recovery in Porous Micromodel Using Volume of Fluid Method"
+ },
+ "3135":{
+  "Speakers": "Shivam Gupta, Sumana Ghosh, Parmod Vaishnav, Priti Sarkar, Deepak Kumar and Bharat Mendhe",
+  "Topic": "Experiment on Hydraulic Power Take Off Unit (PTO) for Point Absorber Wave Energy Converter (PA-WEC)"
+ },
+ "3139":{
+  "Speakers": "Neil Ashwin Raj, Danesh Tafti, Nikhil Muralidhar and Anuj Karpatne",
+  "Topic": "Comparative Study of Future State Predictions of Unsteady Multiphase Flows using DMD and Deep Learning"
+ },
+ "3159":{
+  "Speakers": "Gopal Chandra Pal, Siddhartha S S and Chander Shekhar Sharma",
+  "Topic": "Investigation of coalescence-induced droplet jumping on nanoparticle coated superhydrophobic surface"
+ },
+ "3168":{
+  "Speakers": "Varun Kumar Rajendran, Aravind Ram S P and Karthick Subramani",
+  "Topic": "Stability of immiscible fluids under acoustic fields"
+ },
+ "3188":{
+  "Speakers": "Tripti Kumbalpuri and Sandip Sarkar",
+  "Topic": "Hydrodynamic Analysis of Mixed Electroosmotic and Pressure Driven Simplified Phan –Thien -Tanner (sPTT)Fluid Flow for High Zeta Potential in Microchannel"
+ },
+ "3219":{
+  "Speakers": "Amresh Kumar, Tufan Chandra Bera and B. K. Rout",
+  "Topic": "Numerical Investigation on Bubble dynamics using DOE approach for Cavitation Machining Process"
+ },
+ "3224":{
+  "Speakers": "Anshul Kumar Bansal, Ram Dayal and Manish Kumar",
+  "Topic": "Combined effect of heterogeneous zeta potential on microchannel wall and conductive link in induced charge electrokinetic Micromixing"
+ },
+ "3229":{
+  "Speakers": "Sanchitee Rokade, Adarsh Shinde, Siddhi Bairagi, Vaibhavi Chandankar, Rishi Choudhary, Shruti Dhadi and Mangesh Chaudhari",
+  "Topic": "HEAT TRANSFER USING PASSIVE ENHANCEMENT TECHNIQUE"
+ },
+ "3244":{
+  "Speakers": "Dilip Parmar, Deepak Kumar Singh and Arjun Sharma",
+  "Topic": "RANS simulations of ground effects on flow past airfoils with increasing camber"
+ },
+ "3267":{
+  "Speakers": "Sujithkumar Raghavan Pillai, Chenthil Kumar K, Anil Kumar K.R., Kowsik Bodi and Jayachandran T",
+  "Topic": "Numerical and experimental performance comparison of a typical swirl co-axial injector for a cryogenic combustor"
+ },
+ "3283":{
+  "Speakers": "Dhiraj Puri, Vadiraj Hemadri, Arnab Banerjee and Siddhartha Tripathi",
+  "Topic": "Analysis of sperm cell kinetics in Newtonian and Non-Newtonian fluid medium within a microfluidic channel"
+ },
+ "3302":{
+  "Speakers": "Muralidhar Madhusudan, Praveen Kumar B, Pathanjali R J and Sundara Pandian V",
+  "Topic": "Estimation of Free Floating characteristics of a Close Coupled Canard based on Computational studies"
+ },
+ "3332":{
+  "Speakers": "Vaishnavi Wasankar and Pramod Pachghare",
+  "Topic": "Effect of Surface Tension on the Thermal Performance of Pulsating Heat Pipe with and without Surfactant"
+ },
+ "3351":{
+  "Speakers": "G Venkatesh, Dr Meenakshi Reddy R and Mallikarjuna Rao P",
+  "Topic": "Improvement in thermal performance by using combination of circular and oblong fins in a wedge channel"
+ },
+ "3367":{
+  "Speakers": "Sunny Shiyal, Jayesh Bamaniya, Guru Bachan Satsangi and Dr. Amit Patel",
+  "Topic": "Topology Optimization for Maximum Daily Solar Radiation for a Large-Scale Non-Tracking Heliostat Solar Reflector Using CFD Analysis"
+ },
+ "3374":{
+  "Speakers": "Toni Kumari and Manmohan Pandey",
+  "Topic": "Study of physical characteristics of a bi-porous composite capillary wick for a flat miniature loop heat pipe"
+ },
+ "3398":{
+  "Speakers": "Rajosik Adak, Arindam Mandal and Sandeep Saha",
+  "Topic": "Aerodynamic performance of a tandem wing configuration inspired from dragonfly gliding flight for MAV application"
+ },
+ "3426":{
+  "Speakers": "Jyoti Ranjan Mohapatra and Dr. Manoj Kumar Moharana",
+  "Topic": "Conjugate heat transfer analysis of U-bend\/turn microchannel: A computational approach"
+ },
+ "3435":{
+  "Speakers": "Yogesh Biswal, G Mahesh Nayak, Ketan Vinayak Warghat, Saravanan Balusamy, Sayak Banerjee and Pankaj Sharadchandra Kolhe",
+  "Topic": "Measurements and diagnostics of a gas extraction probe"
+ },
+ "3443":{
+  "Speakers": "Pankaj Kumar, Santosh Kumar Singh, Jaisreekar Reddy and Mihir Shirke",
+  "Topic": "Influence of air injection on cavitation in a convergent divergent nozzle"
+ },
+ "3457":{
+  "Speakers": "Raghuram Srinivasan",
+  "Topic": "The nature of probability density functions in turbulent channel flow"
+ },
+ "3468":{
+  "Speakers": "Kesava Vishnu G",
+  "Topic": "Study on Working fluid of cold gas reaction control system and its expansion time in regulated and non regulated conditions."
+ },
+ "3474":{
+  "Speakers": "Anushka Anushka, Prashant Narayan Panday, Prasanta Kumar Das and Aditya Bandopadhyay",
+  "Topic": "Quantitative Analysis of Milk Adulteration using Spreading Test on Porous Surface"
+ },
+ "3487":{
+  "Speakers": "K Niju Mohammed, P. S. Tide, Franklin R. John, A. Praveen and Ranjith S. Kumar",
+  "Topic": "Investigation of the droplet impingement on a hydrophobic surface with a fixed particle"
+ },
+ "3522":{
+  "Speakers": "Rakesh Nandan, Venugopal Arumuru, Prasenjit Rath and Mihir Kumar Das",
+  "Topic": "Experimental study of PCM and synthetic jet based hybrid heat sink with cylindrical fins for electronic cooling"
+ },
+ "3528":{
+  "Speakers": "Raghavendra Naidu S, Kamal Poddar and Sanjay Kumar",
+  "Topic": "Secondary bubble entrapment in deep water"
+ },
+ "3534":{
+  "Speakers": "Sanand T V, Nitin Rathee, Hari Kumar K, Unnikrishnan Nair P, Jayan N and Nageswaran G",
+  "Topic": "Diffuser Design Modifications with An Objective of Improving the Head Characteristics of a Rocket Engine Oxidiser Pump"
+ },
+ "3560":{
+  "Speakers": "Justin Antony and Ranjith Maniyeri",
+  "Topic": "Simulation of Lateral Migration of Red Blood Cell in Poiseuille Flow Using Smoothed Particle Hydrodynamics"
+ },
+ "3592":{
+  "Speakers": "J Ramarajan and S Jayavel",
+  "Topic": "Influence of pivoted blades on the static torque characteristics of Savonius turbine"
+ },
+ "3631":{
+  "Speakers": "Amit Yadav, Allu Sai Nandan and Dr. Srikrishna Sahu",
+  "Topic": "Effect of Impact Velocity on Spreading and Evaporation of a Volatile Droplet on a non-Porous Substrate"
+ },
+ "3681":{
+  "Speakers": "Rajat Kumar, Ankur Dwivedi and Varun Goel",
+  "Topic": "A review on Heat Pipe-assisted Thermal Management Systems in Electrical Vehicles for Lithium-Ion Batteries"
+ },
+ "3713":{
+  "Speakers": "Kuldeep Singh, Ankita Kumari and Vivek Buwa",
+  "Topic": "Effect of Packing Method and Particle Aspect Ratio on Porosity Distribution, Flow-Field and Pressure Drop"
+ },
+ "3725":{
+  "Speakers": "Rohit Kumar, Chandan Nashine, Arman Mohaddin Nadaf, Mohd Sakib Hussain and Manmohan Pandey",
+  "Topic": "Experimental Investigation of Fluid Flow Behaviour in Parallel Microchannel using Micro-PIV"
+ },
+ "3769":{
+  "Speakers": "Aditya Karanam, Vishnu Verma and Jayanta Chattopadhyay",
+  "Topic": "Analytical Modeling of Effect of Steam Dilution on Hydrogen Combustion and Application to a Typical Nuclear Reactor Containment"
+ },
+ "3777":{
+  "Speakers": "Soumyajit Bhoumik, Arindrajit Chowdhury and Neeraj Kumbhakarna",
+  "Topic": "Ignition delay measurement of methanol-based green hypergolic fuels with hydrogen peroxide"
+ },
+ "3781":{
+  "Speakers": "Rijin Rajan, Bhanu Akherya, Javed Mohd., Dharambir Poddar, Gauri Wadhwa, Sandeep Saha and Debopam Das",
+  "Topic": "Flow falling from slit and circular hole over a horizontal cylinder"
+ },
+ "3787":{
+  "Speakers": "Sanket Chavan, Harshal Daspute, Deepak Dhamecha, Saurabh Dolharkar, Aayush Dongre and Mangesh Chaudhari",
+  "Topic": "Thermal Analysis and Structural Optimization of Bike Disc Brake"
+ },
+ "3797":{
+  "Speakers": "Soumik Bose, Sofen Kumar Jena and Sewan Das Patle",
+  "Topic": "Comparison of Flashing in a Helically Coiled Tube and Straight Tube Expander using R290 Refrigerant: A CFD Based Numerical Investigation"
+ },
+ "3798":{
+  "Speakers": "Anand Kishor, Muthukumaravel S, Anulekha Majumdar, Venkatesan G, Kathikeyan A, Tata Sudhakar and Purnima Jalihal",
+  "Topic": "A study on the volume expansion\/contraction of Phase Change Materials and its application in harvesting energy from cyclic environmental temperature variation"
+ },
+ "3817":{
+  "Speakers": "Mayank Thummar, Ramesh Bhoraniya, Ravi Kant and Vinod Narayanan",
+  "Topic": "Optimal perturbations of flat-plate boundary layer with suction and injection"
+ },
+ "3823":{
+  "Speakers": "Sushant Biradar, Shubham Shinde, Girish Khot, Sandeep Kore and Dipali Sandhan",
+  "Topic": "Multiphase Flow Separation"
+ },
+ "3827":{
+  "Speakers": "Ayush Singh, Digvijay Shukla and Pradipta Kumar Panigrahi",
+  "Topic": "Multi-Needle Ionic Wind Generator for Thermal Management"
+ },
+ "3838":{
+  "Speakers": "Mithilesh Singh and Rajkumar Anand",
+  "Topic": "The effects of shock waves on OHFC copper"
+ },
+ "3868":{
+  "Speakers": "Achanta Pavan, Anup Kamath, Dhanush Binu, Siddharth Zadafiya and Jyotirmay Banerjee",
+  "Topic": "CFD Investigations on a Pitch Type Wave Energy Converter for a Potential Site along the Indian Coast"
+ },
+ "3874":{
+  "Speakers": "Vasanth Kumar G and Rinku Mukherjee",
+  "Topic": "Study of Separation Lines and Flow Patterns in 3D Boundary Layer over Sphere using Experimental and Numerical Analysis"
+ },
+ "3906":{
+  "Speakers": "K Manikandan, Jeevitha Jagajeevan, M Aruna Priyadharshini, Rajarshi Das and P Booma Devi",
+  "Topic": "Aeroacoustic Characteristics of the Supersonic Free Jet at Mach Number 1.6"
+ },
+ "3914":{
+  "Speakers": "Vikrant Narad, Pratik Malu, Pooja Giri, Sagar Borole Borole, Aryan Naikare and Pramod Kothmire",
+  "Topic": "Numerical Investigation to study the effective position of air-conditioner in an office room"
+ },
+ "3964":{
+  "Speakers": "Ayush Painuly and Dr Niraj Kumar Mishra",
+  "Topic": "Thermal performance of a single layer porous radiant burner with biogas as fuel: a numerical study"
+ },
+ "3995":{
+  "Speakers": "Abhishek Mondal, Anoop Dass and Atul Soti",
+  "Topic": "Prevention of Expansion Shock by the Control of Numerical Dissipation of Upwind Schemes"
+ },
+ "4025":{
+  "Speakers": "Pawan Kumar, Somnath Roy and Prasanta Kumar Das",
+  "Topic": "Effect of Stenosis Severity on the Hemodynamics of an Idealized Straight Arterial Tube"
+ },
+ "4029":{
+  "Speakers": "Izhar Hussain Khan and Sanjay Kumar",
+  "Topic": "Velocity Defect in the Wake of a Rotationally Oscillating Cylinder"
+ },
+ "4030":{
+  "Speakers": "Satya P. Pandey, Sandip Sarkar and Debashis Pal",
+  "Topic": "Study of path selection of a droplet in a symmetric Y-microchannel using a uniform electric field"
+ },
+ "4045":{
+  "Speakers": "Gangadhar Venkata Ramana Pinapatruni, Rahul Ranjan, Durga Charan, Sunita Mishra and Sunil Manohar Dash",
+  "Topic": "Characterisation of the New Open Surface Recirculating Water Tunnel Facility at the Indian Institute of Technology Kharagpur"
+ },
+ "4079":{
+  "Speakers": "Nitish Kumar Tripathi, Prafulla Shevkar, Chitransh Atre and Baburaj Puthanveettil",
+  "Topic": "Design to Avoid Dry-out in a Flat Heat Pipe Based on Cu Foam"
+ },
+ "4080":{
+  "Speakers": "Anoop Kumar Shukla, Est Dev Patel and Subrata Kumar",
+  "Topic": "Study of Liquid-Vapor Oscillating Nature in U-Shaped Tube for a Pulsating Heat Pipe"
+ },
+ "4089":{
+  "Speakers": "Ragavendiran Muniyammal, Shyam Sunder Gopalakrishnan, Alakesh Chandra Mandal and Sanjay Kumar",
+  "Topic": "Experimental study of flow over a spherical cap"
+ },
+ "4093":{
+  "Speakers": "Ankita Khose, Shubham Choughule, Shivam Mandavgade, Vaishnavi Gudaghe and Ashwin Chandore",
+  "Topic": "Selection of refrigerant for domestic refrigerator using multi-attribute decision making methods"
+ },
+ "4103":{
+  "Speakers": "Amir Yousuf Bhat and Adnan Qayoum",
+  "Topic": "Thermohydraulic Performance of a Photovoltaic Thermal System using CuO\/EG Nanofluid"
+ },
+ "4109":{
+  "Speakers": "Kaustubh Thakurdesai and Avishek Ranjan",
+  "Topic": "Numerical Investigations of Flow in Cuboidal Liquid Metal Battery"
+ },
+ "4115":{
+  "Speakers": "P. Nagarajan and S. Soma Sundaram",
+  "Topic": "Numerical investigation on effect of appendage on heat transfer in a Backward Facing Step (BFS)"
+ },
+ "4116":{
+  "Speakers": "Akepogu Venkateshwarlu and Ram Prakash Bharti",
+  "Topic": "Hydrodynamics of two-phase immiscible flow in T-junction microchannel"
+ },
+ "4125":{
+  "Speakers": "Aditya Karanam, Vishnu Verma and Jayanta Chattopadhyay",
+  "Topic": "Numerical Validation and Benchmarking of Hydrogen Flame Propagation in a Vertical Acceleration Tube Experimental Facility"
+ },
+ "4193":{
+  "Speakers": "Jiacai Lu, Rui Ni, Xu Xu, Shijie Zhong and Gretar Tryggvason",
+  "Topic": "Computational Studies of the Dynamics of Non-Spherical Particles"
+ },
+ "4203":{
+  "Speakers": "Anmol Singh and Raj Kumar Anand",
+  "Topic": "Analysis of the structure of shock wave-front in a two-phase viscous fluid with heat conduction"
+ },
+ "4204":{
+  "Speakers": "Harshad Bhusare and Somnath Roy",
+  "Topic": "Accelerated CFD computations on multi-GPU using OpenMP and OpenACC"
+ },
+ "4215":{
+  "Speakers": "Pratyush Padmanabhan, Sanatkumar Samvit Rajagopalan and Chennu Ranganayakulu",
+  "Topic": "Aerodynamic and Thermal Optimization of Plate Heat Exchanger Fin Arrangements"
+ },
+ "4245":{
+  "Speakers": "John Pinto, Janani Srree Murallidharan and Kannan Iyer",
+  "Topic": "Experimental Study of Onset of Nucleate Boiling from Submerged Ribbon Heaters of Varying Width"
+ },
+ "4250":{
+  "Speakers": "Abhishek Pawar, Sachin Halikhede and Pramod Kothmire",
+  "Topic": "CFD ANALYSIS OF DIFFERENT DESIGNS OF GREENHOUSE"
+ },
+ "4252":{
+  "Speakers": "Sreeju H, Amit Kumar Chauhan, Thamaraiselvan M, Rajendrakumar M, Suneel G, Pradeep Mp and Gayen Jk",
+  "Topic": "Thermal Hydraulic Analysis of Vitrified Waste Product Storage Vault"
+ },
+ "4256":{
+  "Speakers": "Anil Kumar Rout, Santosh Kumar Hotta, Sima Nayak and Niranjan Sahoo",
+  "Topic": "A Customized Low Cost Thermal Probe for Transient Heat Flux Measurement"
+ },
+ "4259":{
+  "Speakers": "Abhishek K Sharma and Shaligram Tiwari",
+  "Topic": "Numerical study of bubble growth on a hydrophilic surface"
+ },
+ "4271":{
+  "Speakers": "Vijender Singh, Nikhil A. Baraiya and Nishantt N",
+  "Topic": "Review on Aerodynamic and Acoustic Performance of Contra Rotating Fans"
+ },
+ "4286":{
+  "Speakers": "Rudram Dushe, Basheer Ahmad Khan and Arun Kumar Saha",
+  "Topic": "Linear stability analysis of two-dimensional mixed convective flow past a square cylinder"
+ },
+ "4297":{
+  "Speakers": "Nivedita Wagh and Sudhir Agashe",
+  "Topic": "Framework with Data-Analytic for Fault Detection and Performance Prediction of a Steam Boiler: A Case Study"
+ },
+ "4303":{
+  "Speakers": "Ganesh K T and Anand Kaliyaraju",
+  "Topic": "Characteristics of Transitional Separation Bubble Formed Over Negative and Positively Skewed Anisotropic Rough Surface"
+ },
+ "4350":{
+  "Speakers": "Sunil Dodkey and Narendra Gajbhiye",
+  "Topic": "Numerical investigation of pressure drop and MHD flow through sudden expansion in presence of inclined magnetic field"
+ },
+ "4353":{
+  "Speakers": "Vishwanath Nagaraj, Darshan Purushan, Ashish Patra, Nimal Prakash and V Krishna",
+  "Topic": "Computational Study on Wingtip Fluid Injection for Enhancing Wing Performance"
+ },
+ "4426":{
+  "Speakers": "Tony Thomas, Neha Mishra and Amit Agrawal",
+  "Topic": "Microdevice for plasma separation and In vitro quantification of plasma proteins"
+ },
+ "4437":{
+  "Speakers": "Vinothkumar Paramasivam and Jayaprakash Narayanan Murugan",
+  "Topic": "Leading Edge Wall Cooling Effect on Shock Wave Boundary Layer Interaction"
+ },
+ "4440":{
+  "Speakers": "Saurabh Patel and Parmod Kumar",
+  "Topic": "Frequency analysis of direct contact condensation using the wavelet transform during the vertical steam injection on the subcooled water pool"
+ },
+ "4461":{
+  "Speakers": "Pawan Sharma, Dnyanesh Mirikar, Jitendra K. Choudhary, Raghuvamsi Bokka, Jay Joshi, Santosh K. Sahu and Harekrishna Yadav",
+  "Topic": "Numerical studies on the influence of Strouhal number on the flow characteristics of Synthetic Jet impingement"
+ },
+ "4467":{
+  "Speakers": "Akhil Suresh, Dr. Jinesh N, Antony J K and Arun Issac",
+  "Topic": "Design of Liquid Cooled Pin Fin Heat Sink for High Voltage Electric Vehicle"
+ },
+ "4495":{
+  "Speakers": "Nandan Sarkar, Debajyoti Kumar, Apurva Raj, Alok Mishra, Bharatkumar Sharma and Somnath Roy",
+  "Topic": "A multi-GPU scalable Immersed Boundary Method for complex flow problems"
+ },
+ "4506":{
+  "Speakers": "Kushal M",
+  "Topic": "Comparison of aerodynamic coefficients of tall tapered square building modified with golden spiral in plan."
+ },
+ "4517":{
+  "Speakers": "Ananta Kumar Das and Somashekhar S Hiremath",
+  "Topic": "Effect of Inclination Angle of Butterfly-Wing Vortex Generator on Fluid Flow and Heat Transfer Phenomena in a Rectangular Microchannel"
+ },
+ "4538":{
+  "Speakers": "Amiruzzahan Mondal and Animesh Patari",
+  "Topic": "Numerical Study on Effect of Inclination of a Plane on Flow and Heat Transfer by Turbulent Wall Jet"
+ },
+ "4578":{
+  "Speakers": "Stuti Dubey and Prof. Subrata Kumar Majumder",
+  "Topic": "Stability of carbon dioxide microbubble-in-oil microemulsion with branched hydrocarbon applicable in EOR"
+ },
+ "4592":{
+  "Speakers": "Rahul S. Arackal and Sarvoththama Jothi T J",
+  "Topic": "Analysis of Noise Emissions in the Near Field Development of Wall Jets"
+ },
+ "4595":{
+  "Speakers": "Chinu Routa, P. Balaji and Akhilesh Kumar Sahu",
+  "Topic": "Numerical Study on Shear-thinning Fluid Flow over a Rotating Patterned Cylinder in Laminar Flow Regime"
+ },
+ "4626":{
+  "Speakers": "Naveen Kushwaha and Vimal Kumar",
+  "Topic": "Numerical Study of Saturated Pool Boiling Over Horizontal Tube"
+ },
+ "4630":{
+  "Speakers": "Sanjay Mane, Vadiraj Hemadri, Sunil Bhand and Siddhartha Tripathi",
+  "Topic": "White blood cell separation and blood typing using a spiral microdevice"
+ },
+ "4635":{
+  "Speakers": "Mahesh Shindge, Prathamesh Dhamnikar, Salman Tamboli, Rohit Fulzele, Omkar Gatlewar, Arpita Funde and Pramod Kothmire",
+  "Topic": "CFD Analysis of Catalytic Convertor to Optimize the Back Pressure and Velocity"
+ },
+ "4658":{
+  "Speakers": "Tonmoy Sharma, Shakkira Erimban, Rajnish Azad, Youngsuk Nam, Snehasis Daschakraborty and Rishi Raj",
+  "Topic": "Decoding the vapor phase adsorption of aroma compounds on the vapor-liquid interface by molecular dynamic simulations"
+ },
+ "4664":{
+  "Speakers": "Suryansh Gupta, Mahesh R. Thombare and Nagesh D. Patil",
+  "Topic": "Flow Dynamics and Size-based Sorting of Bidispersed Colloidal Particles in an Evaporating Sessile Water Droplet: Substrate Heating and Wettability Effects"
+ },
+ "4672":{
+  "Speakers": "Prashant Narayan Panday, Anushka Anushka, Prasanta Kumar Das and Aditya Bandopadhyay",
+  "Topic": "Pattern formation and evolution of viscous and non-viscous liquids on a vertical vibrating surface: An experimental investigation"
+ },
+ "4717":{
+  "Speakers": "David N and Yeunwoo Cho",
+  "Topic": "Air lubrication on a flat plate in a steady water stream"
+ },
+ "4725":{
+  "Speakers": "Gaurav Misuriya and Ti Eldho",
+  "Topic": "Effect of Wave and Current interaction on Flow Hydrodynamics Around a Pier"
+ },
+ "4729":{
+  "Speakers": "Shyam Sunder Yadav and Arkaprovo Ghosal",
+  "Topic": "Numerical Simulation of Non-Isothermal, Incompressible Viscoelastic Flow inside a Sudden Expansion geometry"
+ },
+ "4731":{
+  "Speakers": "Ankit Lakhiwal and Vaibhav Arghode",
+  "Topic": "Effects of Geometry on the Flow Field inside a PVRF Combustor"
+ },
+ "4732":{
+  "Speakers": "Livya Ethiraj and Nadaraja Pillai S",
+  "Topic": "Aerodynamic Analysis of Stretched Trailing Edge over NACA 0020 Airfoil at Various Turbulence Intensities"
+ },
+ "4740":{
+  "Speakers": "Amit Chauhan, M Rajendrakumar and K Natesan",
+  "Topic": "Establishment of thermal mixing behavior in grid plate of FBRs 1&2"
+ },
+ "4755":{
+  "Speakers": "Krishan Sharma, Subrata Kumar and Deepu P",
+  "Topic": "Velocity Slip and Temperature Jump in Homogeneous and Heterogeneous Porous Medium"
+ },
+ "4760":{
+  "Speakers": "Dhananjay Kumar and Pranab Kumar Mondal",
+  "Topic": "Influence of axial wall slip on swirl velocity in a laminar microtube flow"
+ },
+ "4762":{
+  "Speakers": "Anurag Samantara and Natesan K",
+  "Topic": "Study of Pressure Transient in Sodium Circuit due to Pump Seizure using Flownex Code"
+ },
+ "4775":{
+  "Speakers": "Kirti Singh and Kesheo Prasad",
+  "Topic": "Turbulence measurement over rough and smooth bed in open channel flow"
+ },
+ "4778":{
+  "Speakers": "Saroj K. Panda, Vishnu Anand P., Vivek K. Mishra, Rajeev R., Venkatesan K.A. and Ananthasivan K.",
+  "Topic": "Numerical Analysis of Solid-Liquid Disengagement in a Continuous Precipitator Relevant To Plutonium Reconversion"
+ },
+ "4798":{
+  "Speakers": "Deepak Kumar, Aditya Kumar, T Sudhakar and Sudhakar Subudhi",
+  "Topic": "Experimental Determination of Thermo-Physical Properties of Magnetite Nanofluid and its utilization for Numerical Study on Buoyancy Induced Convection with Fins of Different Materials"
+ },
+ "4815":{
+  "Speakers": "Shubham Rahal and Sushanta Dutta",
+  "Topic": "Aerodynamics Characterisation of NACA4412 Airfoil: Low Reynolds Number"
+ },
+ "4823":{
+  "Speakers": "Reeshav Chakraborty, Aranyak Chakravarty and Mithun Das",
+  "Topic": "Impact of Pipe Inclination on Direct Contact Condensation in Steam-Water Counter-Current flow"
+ },
+ "4844":{
+  "Speakers": "Pankaj Kumar and Chennu Ranganayakulu",
+  "Topic": "Numerical analysis of generation of Colburn-j factor for the plain triangular fins of a compact heat exchanger using CFD approach"
+ },
+ "4860":{
+  "Speakers": "Shirin Patil, Kiran Kumar, Srikrishna Sahu and Ravindra Devi",
+  "Topic": "A Numerical Analysis of Flat-Fan Spray Injection into Coflow of Air"
+ },
+ "4879":{
+  "Speakers": "Sujith Jayakumar and Karthick Subramani",
+  "Topic": "Achieving Faster Relocation of Inhomogeneous Fluids in a Microchannel under Acoustic fields"
+ },
+ "4898":{
+  "Speakers": "Samar Singhal, Ashwini Kumar Yadav and Ravi Prakash",
+  "Topic": "СFD analysis of different Greenhоuse ventilаtiоn designs using ОрenFОАM"
+ },
+ "4911":{
+  "Speakers": "Naveen Kumar, Ram Kumar and Ankit Bansal",
+  "Topic": "Numerical Comparison of Turbulent-Chemistry Interaction Models with Radiation Effects for Non-Premixed Flames: Sandia-E and DLR-B"
+ },
+ "4913":{
+  "Speakers": "Pradeep Singh, Ravi Kumar and S. Sarkar",
+  "Topic": "Control of Flow Separation using Hemispherical Protuberance on the Leading Edge"
+ },
+ "4953":{
+  "Speakers": "Subeg Singh and Neeraj Kumar",
+  "Topic": "Effect of Arterial flow on Heat Transfer during Magnetic Hyperthermia Application"
+ },
+ "4959":{
+  "Speakers": "Shubham Agrawal, Prasanta Kumar Das and Purbarun Dhar",
+  "Topic": "Microfluidic solute transport by interference of oscillatory thermal Marangoni effect and patterned wall-slip"
+ },
+ "4960":{
+  "Speakers": "Shivam Padmani, Nihar Shah, Dev Hathi and Absar Lakdawala",
+  "Topic": "A numerical study on pulsatile non-Newtonian hemodynamics in saccular abdominal aortic aneurysms"
+ },
+ "4961":{
+  "Speakers": "Vishesh V., Devendra Singh, Suman S. and Jayahar Sivasubramanian",
+  "Topic": "Numerical Simulation of Hypersonic Flow Over the Orion CEV Re-entry Vehicle"
+ },
+ "4964":{
+  "Speakers": "Alok Kumar, Govind Maurya, Nadeem Ahmed and Suneet Singh",
+  "Topic": "Insights from a Linear and corresponding Nonlinear Model of a Pulsating Heat Pipe"
+ },
+ "4979":{
+  "Speakers": "Narkhede Aditya Prafull, Gnanasekaran Nagarajan and Ajay Kumar Yadav",
+  "Topic": "Fluid Flow Analysis in a Partially Filled Horizontal Channel with a Metal Foam Block-A Numerical Study"
+ },
+ "5028":{
+  "Speakers": "Banti A. Gedam",
+  "Topic": "Heat transfer evaluation method for RC member at standard fire scenario"
+ },
+ "5029":{
+  "Speakers": "Anjan Nandi, Nirmalendu Biswas and Aparesh Datta",
+  "Topic": "Enhanced Melting Behavior of Phase Change Material (PCM) in a Rectangular Cavity: Effect of Fin"
+ },
+ "5053":{
+  "Speakers": "Viswanathan P, Prabu T, Mayilsamy K and Gopalakrishnan R",
+  "Topic": "Calibration of the Subsonic Open Circuit Wind Tunnel at PSG TECH"
+ },
+ "5070":{
+  "Speakers": "Soumith Voddepalli, Sujit Nath and Agnimitra Biswas",
+  "Topic": "Determining Best Passive heat transfer enhancement technique in Circular pipe Heat Exchangers with MCDM technique"
+ },
+ "5072":{
+  "Speakers": "Avnish Kumar, Swastik Acharya and Bireswar Paul",
+  "Topic": "Performance analysis of solar air heater with circular finned absorber plate"
+ },
+ "5080":{
+  "Speakers": "Md Gulam Sarwar, Priyank Kumar and Sudip Das",
+  "Topic": "Supersonic flow field characteristics of a sharp spiked blunt body having various nose cone fairings"
+ },
+ "5088":{
+  "Speakers": "Chandan Kumar and Amit Dhiman",
+  "Topic": "CFD based Numerical analysis of a Scramjet combustor with the dual cavity for Inlet Mach number at 7 with hydrogen as a Fuel"
+ },
+ "5103":{
+  "Speakers": "Harshad Patel, Akhil Mittal and Tejal Nagar",
+  "Topic": "THERMO-DIFFUSION AND HEAT GENERATION EFFECTS ON UNSTEADY MHD FLOW OF NANOFLUID IN A PERFORATED VERTICAL MEDIUM."
+ },
+ "5113":{
+  "Speakers": "Kshitij Sharma and Rajesh Ranjan",
+  "Topic": "Numerical prediction of largely separated flows in Low-pressure Turbine blades with high loading"
+ },
+ "5131":{
+  "Speakers": "Thomas Jacob, Siddhant Mohapatra and Pallab Sinha Mahapatra",
+  "Topic": "Activity induced mixing in a stratified binary passive system"
+ },
+ "5139":{
+  "Speakers": "Varun Palahalli, Ganesh Pawar R, Nuza Nigar and Praphul T",
+  "Topic": "Numerical Investigation to study the effects of wing flexibility on the store trajectory using MSC CoSim"
+ },
+ "5142":{
+  "Speakers": "Bhuwanesh Kumar, Ravi Kumar and Akhilesh Gupta",
+  "Topic": "Rewetting On Horizontal Tube Surface During Air-Atomized Spray Cooling: An Experimental Investigation"
+ },
+ "5151":{
+  "Speakers": "Achintya Hanuman Kambli, Prasenjit Dey and Sandip Kumar Saha",
+  "Topic": "Flow Characteristics and its Impact on Heat Transfer in Microchannel with Porous Rectangular Vortex Generator"
+ },
+ "5156":{
+  "Speakers": "Ajit Kumar, Israr Ahmad and Manabendra Pathak",
+  "Topic": "Spreading Phenomena of a Water Droplet Impacting on a Hybrid-Wettability Surface"
+ },
+ "5158":{
+  "Speakers": "Anulekha Majumdar, G Venkatesan and Abdus Samad",
+  "Topic": "Possibility for Wave Farms at the Indian Coastline"
+ },
+ "5162":{
+  "Speakers": "Jay Patel, Prathamesh Phadke, Rohit Sherawat, Arvind Kumar, Arindrajit Chowdhury and Neeraj Kumbhakarna",
+  "Topic": "Detailed Chemical Kinetics mechanism for Condensed Phase Decomposition of Ammonium Perchlorate"
+ },
+ "5183":{
+  "Speakers": "Ashok Kumar, Manu K Sukesan and Shine S R",
+  "Topic": "Analysis of micro-nozzle flow using Navier Stokes and DSMC method and locating the separation plane based on modified Knudsen number"
+ },
+ "5197":{
+  "Speakers": "Dharambir Poddar, Nitin Kumar, Javed Mohd. and Debopam Das",
+  "Topic": "Aerodynamic of Flapping Fin Inspire from Manta Ray"
+ },
+ "5250":{
+  "Speakers": "Anamika Maurya, Janani Murallidharan and Atul Sharma",
+  "Topic": "Flow Separation and Pressure Drop Analysis for Blood Flow in Symmetric Stenosed Arteries of Various Shapes"
+ },
+ "5263":{
+  "Speakers": "Manoj Sood, Upendra Bajpai and Sunil Singhal",
+  "Topic": "Performance Investigation of Hydrokinetic Savonius Rotor Operating at Different Alignment"
+ },
+ "5267":{
+  "Speakers": "Upkar Singh, Vishnu Prasad and Ruchi Khare",
+  "Topic": "PERFORMANCE ANALYSIS OF RADIAL FLOW PUMP USING CFD"
+ },
+ "5286":{
+  "Speakers": "Manmohan Vishwakarma, Balasundaram Mohan and Sathesh Mariappan",
+  "Topic": "Experimental investigation of self-excited thermoacoustic instability using different geometrical configurations"
+ },
+ "5289":{
+  "Speakers": "Pushpanjay Singh, Harekrishna Yadav, Prabhat Upadhyay and Santosh Sahu",
+  "Topic": "Experimental Investigation of Circular and Non-circular Orifice Synthetic Jet Impingement with Varying Waveform Shapes"
+ },
+ "5312":{
+  "Speakers": "Vivek Saxena, Akhalesh Sharma, Santosh Kumar Sahu and Shailesh I. Kundalwal",
+  "Topic": "Critical thickness of the phase change material (RT-42) for temperature management of 18650 Li-ion cell undergoing rapid discharging"
+ },
+ "5324":{
+  "Speakers": "Raushan Kumar and Chander Shekhar Sharma",
+  "Topic": "Development of VOF-CSF and DCA based two Phase Flow Numerical Modeling Framework to Study Droplet Dynamics"
+ },
+ "5326":{
+  "Speakers": "Preetam Jamod, Ayush Divyansh, Harish Pothukuchi and Shanmugadas K. P.",
+  "Topic": "Internal and external aerodynamics of a lean-burn gas turbine fuel injector"
+ },
+ "5345":{
+  "Speakers": "Ravi Shankar Chigurupalli and Naresh Yarramsetty",
+  "Topic": "Effect of orientation on the thermal performance of a PCM-based finned heat sinks"
+ },
+ "5346":{
+  "Speakers": "Praveen Kumar B, Pathanjali R J and Sundara Pandian V",
+  "Topic": "Computational study to assess the usage of Asymmetric Canard as Yaw control device for a Generic Fighter aircraft"
+ },
+ "5353":{
+  "Speakers": "Arnab Choudhury and Arghya Samanta",
+  "Topic": "Spatio-temporal stability analysis of falling film down heated inclined plane"
+ },
+ "5360":{
+  "Speakers": "Bhanoday Sanagavarapu, Archana Kumari and Amitesh Kumar",
+  "Topic": "Power spectral analysis of a two dimensional wall jet"
+ },
+ "5369":{
+  "Speakers": "Venkatshivaram Jadav B and Vidya G",
+  "Topic": "Flow features around the strap on attachments on a typical launch vehicle at transonic and supersonic Mach numbers"
+ },
+ "5384":{
+  "Speakers": "Prasad Reghuvaran",
+  "Topic": "NUMERICAL STUDY ON OPERATION MODE TRANSITION CONTROL IN DUAL-BELL NOZZLE WITH SECONDARY INJECTION"
+ },
+ "5392":{
+  "Speakers": "Bhuvaneshwar Gera, Shubham Mishra, Vishnu Verma and Jayanta Chattopadhyay",
+  "Topic": "Numerical Investigation of Self-Ignition in Hydrogen Recombiner"
+ },
+ "5395":{
+  "Speakers": "Subbarao Rayapati",
+  "Topic": "Studies on the Flow Capture Through Blade Rows in a Two-Stage Axial Flow Turbine"
+ },
+ "5403":{
+  "Speakers": "Swapnil Rajmane and Shaligram Tiwari",
+  "Topic": "Comparative study of uniform and pulsatile blood flow through single stenosed carotid artery"
+ },
+ "5404":{
+  "Speakers": "Saurabh Dubey, Vinod B. Vanarse, Prathu Raja Parmar, Omkar S. Deshmukh and Dipankar Bandyopadhyay",
+  "Topic": "Thermal Gradient Mediated Instability in a Bilayer Flow over a Porous Medium"
+ },
+ "5409":{
+  "Speakers": "Mariyam Ali and Anil Kumar Sharma",
+  "Topic": "Numerical Simulation of combined natural convection and radiation inside a square enclosure with a horizontal partition"
+ },
+ "5443":{
+  "Speakers": "Chitransh Atre, Aditya Manoj and Baburaj Puthenveettil",
+  "Topic": "Capillary rise in the interstices of tubes"
+ },
+ "5445":{
+  "Speakers": "Mohd Sufiyan Anwar, Saif Masood, Mohammad Athar Khan, Syed Fahad Anwer and Rashid Ali",
+  "Topic": "Numerical Simulation of Vortex-Induced Vibration of Square Cylinder with Variable Inflow"
+ },
+ "5448":{
+  "Speakers": "Manjappatta Pazhiyottumana Neeraj and Ranjith Maniyeri",
+  "Topic": "Lateral migration of three particles through a slit- An immersed boundary computational analysis"
+ },
+ "5476":{
+  "Speakers": "Charul Gupta, Anvesh Sangadi, Lakshmana Chandrala and Harish Dixit",
+  "Topic": "A study of flow patterns near moving contact lines over hydrophobic surfaces"
+ },
+ "5498":{
+  "Speakers": "Aditya Kumar, Sudhakar Subudhi, Deepak Kumar and Veena Chaudhary",
+  "Topic": "Investigation of the Thermal Conductivity of Magnetic Nanofluids"
+ },
+ "5505":{
+  "Speakers": "Seik Mansoor Ali and Sahil Patwardhan",
+  "Topic": "A Numerical Model for Smoke Filling in a Compartment with Single Vertical Vent"
+ },
+ "5527":{
+  "Speakers": "Shailesh Kumar Jha and S Narayanan",
+  "Topic": "Investigation of flow past a flat plate airfoil with modified trailing edges"
+ },
+ "5530":{
+  "Speakers": "Vivek Saxena, Anuj Kumar, Harshit Ziniwal, Gaurav Nagar, Santosh K. Sahu and Shailesh I. Kundalwal",
+  "Topic": "Thermal Performance Analysis of Cross Finned Heat Sinks using Nano-Enhanced Phase Change Material"
+ },
+ "5545":{
+  "Speakers": "Vedant Kanate, Arjun Pardeshi, Falguni Charde, Krushna Kolase, Adinath Bhise and Pramod Kothmire",
+  "Topic": "Numerical Investigation on Performance of CPU Heat Sinks."
+ },
+ "5549":{
+  "Speakers": "Hitesh Kumar Sinha, Krishna Mohan Singh and Ganesh Balu Kumbhar",
+  "Topic": "Topology Optimization of Thermo-electric Systems"
+ },
+ "5552":{
+  "Speakers": "Sampath Bharadwaj Kota and Seik Mansoor Ali",
+  "Topic": "CFD Simulations for Thermal Qualification of a Radioactive Material Transport Cask"
+ },
+ "5556":{
+  "Speakers": "Svh Nagendra and Dvs Bhagavanulu",
+  "Topic": "Numerical Study of Twin wall jet interacting with different Surfaces."
+ },
+ "5557":{
+  "Speakers": "Prashant Dubey, Aryendra Chouhan, Kundan Kumar and Sunil Sinha",
+  "Topic": "Analysing the Efficacy of Annulus Leak Monitoring System (ALMS) of AHWR"
+ },
+ "5564":{
+  "Speakers": "Arindam Mandal, Sourav Sarkar and Achintya Mukhopadhyay",
+  "Topic": "Circular bluff-body’s effect on the lift-off and blow-out limit of a H2- air diffusion flame 2D micro-combustor"
+ },
+ "5571":{
+  "Speakers": "Balasundaram Mohan and Sathesh Mariappan",
+  "Topic": "Onset of thermoacoustic oscillations in an annular combustor with flames stabilized by circular discs"
+ },
+ "5573":{
+  "Speakers": "Pavan Kumar Kirar, Surendra Kumar Soni, Pankaj S. Kohle and Kirti Chandra Sahu",
+  "Topic": "An experimental investigation of an effect of swirl flow field and the aerodynamic force on the droplet breakup morphology"
+ },
+ "5605":{
+  "Speakers": "Ashish Khelkar, Krittika Patwari and Rajat Das",
+  "Topic": "Analysis of a Solar Air Heater with Triangular fins on Wavy Absorber Plate"
+ },
+ "5606":{
+  "Speakers": "Rahul Roy, Aniruddha Guha, Siddhartha Mukherjee and Suman Chakraborty",
+  "Topic": "Dilute Polymeric fluids Augmenting Salinity gradient induced Potential"
+ },
+ "5627":{
+  "Speakers": "Amit Ashok Pawar, Kumar Sanat Ranjan, Arnab Roy and Sandeep Saha",
+  "Topic": "High-speed Schlieren imaging as a tool for identifying vortices in dragonfly flight"
+ },
+ "5628":{
+  "Speakers": "Mazhar Hussain, Mohd. Kaleem Khan and Manabendra Pathak",
+  "Topic": "Modelling of Phase Change Material embedded Li-ion battery pack under different load conditions using Equivalent Circuit Model"
+ },
+ "5632":{
+  "Speakers": "Gosu Satish Kumar Reddy and Debopam Das",
+  "Topic": "Vortex Bladeless Turbines with Wings"
+ },
+ "5636":{
+  "Speakers": "Monalisa Mallick, Jahnvi Choudhary, Abinash Mohanta and Awadhesh Kumar",
+  "Topic": "Experimental Investigation on Boundary Layer Thickness of various Roughness Patterns under Subsonic Conditions"
+ },
+ "5656":{
+  "Speakers": "Rituparn Somvanshi, Neha Chaturvedi and Swagata Bhaumik",
+  "Topic": "Compound matrix method for linear stability analysis of flow over a flat plate"
+ },
+ "5660":{
+  "Speakers": "Faiz Khan, Salman Pathan, Ramakant Pandey and Abhishek Bhagwat",
+  "Topic": "Melting Performance Enhancement Due to Effect of Installation Angle of Cesaro Fins."
+ },
+ "5670":{
+  "Speakers": "Sumant R Morab, Janani S Murallidharan and Atul Sharma",
+  "Topic": "Physiological FSI Study for Phonoangiography-based Rupture Risk Prediction in Abdominal Aortic Aneurysms"
+ },
+ "5673":{
+  "Speakers": "Surendra Singh, Lakhvinder Singh and S. Jitendra Pal",
+  "Topic": "Impact of Building Configurations on Fluid Flow in an Urban Street Canyon"
+ },
+ "5686":{
+  "Speakers": "Abhishek Raj and M G",
+  "Topic": "Effect of Froude number on Viscoelastic Drop Impact on a Dry Surface"
+ },
+ "5703":{
+  "Speakers": "Hrishikesh Kulkarni and Dilshad Ahmad",
+  "Topic": "CFD Analysis of Data Center Using Open-Source Software: OpenFOAM"
+ },
+ "5720":{
+  "Speakers": "Saurabh Dhopeshwar, Ujjwal Chetan, Toshan Lal Sahu, Prabir Kumar Kar, Suman Chakraborty and Rajaram Lakkaraju",
+  "Topic": "Wavy dynamics of confined and inclined falling liquid films"
+ },
+ "5723":{
+  "Speakers": "Govind Maurya and Suneet Singh",
+  "Topic": "Multiple Steady States of Rayleigh-B ́enard Convection in Trapezoidal Closed Cavities"
+ },
+ "5728":{
+  "Speakers": "Rohit Kumar and Manmohan Pandey",
+  "Topic": "Heat Transfer Enhancement in Miniature Channels with Micro-Fin having Varying Fin Height Along the Axis of Flow"
+ },
+ "5759":{
+  "Speakers": "Jarapala Sridivya Nandini, Ravi Beniwal, Kapil Garg and Himanshu Tyagi",
+  "Topic": "Experimental Study of the Effect of Packing Material on the Overall Performance of an HDH Desalination system"
+ },
+ "5766":{
+  "Speakers": "Vinay Ca, Kumar G N, Venkat S Iyengar and Pugazhendhi T",
+  "Topic": "Aero-Thermal Investigation on Commuter Category Turboprop Aircraft Engine Nacelle"
+ },
+ "5786":{
+  "Speakers": "Garima Singal, Arnab Dasgupta, Alok K Vishnoi, Vivek Popat, Dinesh K Chandraker and Sunil K Sinha",
+  "Topic": "Experimental Investigations of Type-I Density Wave Instability in a Scaled Test Facility of a Natural Circulation Pressure Tube Type BWR"
+ },
+ "5788":{
+  "Speakers": "Neetu Tiwari",
+  "Topic": "Data-Driven based pressure field estimation from PIV measurement and time resolved optimized sensors"
+ },
+ "5789":{
+  "Speakers": "Anmol Jamakhandikar, Rahulkumar Painter, Ashish Doshi and Mukund Bade",
+  "Topic": "A Review on Micro Hydropower Generation"
+ },
+ "5793":{
+  "Speakers": "Amit Kumar Pandey and Abhijit Das",
+  "Topic": "Effects of nanoparticle shapes on SiO2-engine oil nanofluid flow and heat transfer over a stretchable rotating disk"
+ },
+ "5799":{
+  "Speakers": "Vishal Kumar and Swastik Acharya",
+  "Topic": "A Numerical Analysis of Baffled Solar Air Heater"
+ },
+ "5824":{
+  "Speakers": "Lokesh Rohilla, Ravi Prakash, Raj Kumar Verma and Arup Kumar Das",
+  "Topic": "Experimental Visualization of Mass Transfer Around a Bubble"
+ },
+ "5840":{
+  "Speakers": "Toshan Lal Sahu, Ujjwal Chetan, Prabir Kumar Kar, Saurabh Dhopeshwar, P. K. Das and Rajaram Lakkaraju",
+  "Topic": "Entrainment characteristics of a swirling liquid jet"
+ },
+ "5848":{
+  "Speakers": "Bibhu Sha, Rajiva Mohanty, Dishant Patel and Mihir Das",
+  "Topic": "Thermo-hydraulic evaluation of isothermally heated bluff bodies with different shape"
+ },
+ "5870":{
+  "Speakers": "Jitendra Dhakar and Ram Prakash Bharti",
+  "Topic": "Electroviscous Effects in the Electrolyte Liquid Flow through Heterogeneously Charged Non-Uniform Slit Microfluidic Device"
+ },
+ "5875":{
+  "Speakers": "Parv Goyal and Jayahar Sivasubramanian",
+  "Topic": "Aerodynamic Analysis And Optimization of A Hypersonic Missile"
+ },
+ "5876":{
+  "Speakers": "Dakesh Sahu, Keyur Kansara and Shobhana Singh",
+  "Topic": "Influence of geometric parameters on power generation from a thermoelectric module"
+ },
+ "5892":{
+  "Speakers": "Abhishek Pednekar and Shailesh Nikam",
+  "Topic": "Experimental Investigation of Chimney Plume Dispersion Characteristics"
+ },
+ "5896":{
+  "Speakers": "Soumyabrata Das, Sawan Sinha, Sagar Saroha and Nishant Parashar",
+  "Topic": "ML-Enhanced Predictions of Flow Past a Sphere using High Resolution PANS Database"
+ },
+ "5913":{
+  "Speakers": "Waquar Raza, Ramesh Narayanaswamy and Krishnamurthy Muralidhar",
+  "Topic": "Droplet Growth and Drop Size Distribution Model for Dropwise Condensation on Hydrophobic Tubular Surfaces"
+ },
+ "5933":{
+  "Speakers": "Vishnu Namboodiri V and Rahul Goyal",
+  "Topic": "Influence of Number of Turbine Rotations on Numerical Prediction Accuracy of a Three Bladed NACA0021 VAWT"
+ },
+ "5942":{
+  "Speakers": "Ankur Nagpal and Vidya G",
+  "Topic": "PRESSURE DROP PREDICTION USING CFD FOR A LAUNCH VEHICLE PAYLOAD FAIRING SEPARATION GROUND TEST"
+ },
+ "5943":{
+  "Speakers": "Aboli Pingle, Sudarshan Kumar and Neeraj Kumbhakarna",
+  "Topic": "Simulation of Fuel-Additive Interactions using Molecular Modelling Calculations"
+ },
+ "5953":{
+  "Speakers": "Ankit Bangar, Moorthi A, Niraj Uttam and Prem Sai K",
+  "Topic": "Study of the effect of single phase flow conditions on FAC for various feeder bend geometries of Pressurised Heavy Water Reactor (PHWR)"
+ },
+ "5972":{
+  "Speakers": "Gaurav Sharma and Rajneesh Bhardwaj",
+  "Topic": "Effect of spacing on VIV response of elastically coupled cylinders in side-by-side configuration."
+ },
+ "5987":{
+  "Speakers": "Anirban Roy, Avinash Kumar, Chirodeep Bakli, Gargi Das and Shubabrata Ray",
+  "Topic": "Interplay of Fluid Rheology and Flow Actuation for Modulation of Mixing Characteristics in T-shaped Microchannels."
+ },
+ "6028":{
+  "Speakers": "Yatharth Lilhare, Amit Arora and Himanshu Jangid",
+  "Topic": "Deployment of Helical Fins for Heat Transfer Enhancement in Internal Flows"
+ },
+ "6039":{
+  "Speakers": "Muthu Saravanan, Mangarjuna Rao P and Raghupathy S",
+  "Topic": "Analysis of Deformation Effects on Falling Spray Droplet Motion under Postulated Sodium Spray Fire Scenario in SFR"
+ },
+ "6056":{
+  "Speakers": "Vikas Sharma and Sushanta Dutta",
+  "Topic": "Effect of Structured Riblet on Flow Characteristics over a NACA0015 Aerofoil"
+ },
+ "6069":{
+  "Speakers": "Anoop B and Mangarjuna Rao P",
+  "Topic": "Evaluation of Multiphase Mixture Model for Simulation of Sodium Aerosol Concentration in Cover Gas Space"
+ },
+ "6091":{
+  "Speakers": "Amrita Pathak, Pranjal Khare, Ali Jraisheh and Vinayak Kulkarni",
+  "Topic": "Effect of upstream energy deposition on flow characteristics of a Scramjet engine"
+ },
+ "6109":{
+  "Speakers": "Shailesh Kushwaha, Naresh Yarramsetty and Jyotirmay Banerjee",
+  "Topic": "Performance analysis of a copper rod-assisted phase change material-based finned heat sink"
+ },
+ "6128":{
+  "Speakers": "Ankita Maity and Krishna Mohan Singh",
+  "Topic": "RELAXED JACOBI METHOD AS MULTIGRID SMOOTHER AND PRECONDITIONER"
+ },
+ "6132":{
+  "Speakers": "Jignesh Vala, Shivang Patni, Kaushal Mahant, Saumya Shah and Anand Makwana",
+  "Topic": "DESIGN, ANALYSIS & MANUFACTURING OF TWIST MORPHING WING FOR UAV PURPOSE"
+ },
+ "6142":{
+  "Speakers": "Anshul Rajput, Zahoor Bhat, Yogesh M Nimdeo and Harish Pothukuchi",
+  "Topic": "Numerical Study on Heat Transfer through Semi Circular Grooved Microchannel"
+ },
+ "6152":{
+  "Speakers": "Ayush Divyansh, Preetam Jamod and Shanmugadas K.P.",
+  "Topic": "Development of advanced fuel injector concepts for compact lean-burn gas-turbine combustors"
+ },
+ "6164":{
+  "Speakers": "Mohanish Goel, Aravindan S, Sreedharan K V and Partha Sarathy U",
+  "Topic": "Performance Characteristics of Journal Bearings with Vertical Shaft"
+ },
+ "6173":{
+  "Speakers": "Kishor Kumar Sarva, Tejas G Murthy and Gaurav Tomar",
+  "Topic": "Particle filtration in suspension droplet break-up"
+ },
+ "6176":{
+  "Speakers": "Priyabrata Puhan, Asim Mukherjee and Arnab Atta",
+  "Topic": "Influence of interphase drag coefficients in CFD simulation of inclined liquid-solid fluidized bed"
+ },
+ "6184":{
+  "Speakers": "Abhishek Srivastava, Bahni Ray, Mayank Kumar, Debabrata Dasgupta, Rochish Thaokar and Y.S. Mayya",
+  "Topic": "Dynamic characteristics of Submicron particle deposited on the charged spherical collector"
+ },
+ "6190":{
+  "Speakers": "Keyur Kansara and Shobhana Singh",
+  "Topic": "Accommodating Volume Expansion Effects during Solid-Liquid Phase Change – A Comparative Study"
+ },
+ "6195":{
+  "Speakers": "Shri Prakash Gupta, Mukesh Kumar, Dinesh Chandrakar, Arnab Dasgupta and Sunil K Sinha",
+  "Topic": "Effect of Channel Creep on the Flow Distribution in the Fuel Rod Bundle of PHWR"
+ },
+ "6197":{
+  "Speakers": "Govind Maurya, Alok Kumar, Nadeem Ahmed and Suneet Singh",
+  "Topic": "Co-existence of Multiple Steady States in Bottom Heated Trapezoidal Closed Cavities"
+ },
+ "6202":{
+  "Speakers": "Abinash Biswal, Yogesh Biswal, Ketan Vinayak Warghat, Guguloth Mahesh Nayak, Pankaj S Kolhe and Saravanan Balusamy",
+  "Topic": "Experimental study on GDI in-cylinder combustion quality of ethanol and lemon peel oil"
+ },
+ "6206":{
+  "Speakers": "Yashvardhan Singh Bhati and Ashish Bhateja",
+  "Topic": "Self-similar velocity profiles in granular flow in a silo with two asymmetrically located exits"
+ },
+ "6227":{
+  "Speakers": "Parth Patel, Amit Agrawal, Atul Sharma and Rajneesh Bhardwaj",
+  "Topic": "Experimental validation for vortex induced vibration of circular and square cylinders of low and high mass damping"
+ },
+ "6229":{
+  "Speakers": "Rupesh Baroniya, Manoj Arya and Narendra Gajbhiye",
+  "Topic": "Asymmetry Analysis of the MHD Flow in Sudden Expansion"
+ },
+ "6256":{
+  "Speakers": "Indra Kumar Lokhande, Deepyaman Chakraborty and Nishant Tiwari",
+  "Topic": "Numerical Study of Combined phase change material and natural air cooling system for Lithium-ion battery thermal management"
+ },
+ "6268":{
+  "Speakers": "Sayan Bhattacharya and Amitabh Bhattacharya",
+  "Topic": "Modeling of Particle Dispersion in Turbulent Flows via Synthetic Turbulence Fields"
+ },
+ "6273":{
+  "Speakers": "Rahul V M and Gnanasekaran N",
+  "Topic": "Effect of geometric parameters on steady-state supersonic film cooling of the basic conical rocket nozzle"
+ },
+ "6275":{
+  "Speakers": "Punit Prakash, Chittanuri Sucheth, Santanu Mitra and Nishant Mishra",
+  "Topic": "A Feasibility Analysis of using Savonius VAWT on Vehicle for Energy Capture"
+ },
+ "6284":{
+  "Speakers": "Shivam Gupta and Ajay Bhandari",
+  "Topic": "IMAGE-BASED RETINAL HEMODYNAMICS SIMULATION OF HEALTHY AND PATHOLOGICAL RETINAL VASCULATURE"
+ },
+ "6317":{
+  "Speakers": "Kumar Sanat Ranjan, Amit Ashok Pawar, Arnab Roy and Sandeep Saha",
+  "Topic": "Smoke flow visualization of dragonfly Pantala flavescens in tethered flight"
+ },
+ "6346":{
+  "Speakers": "Ssheshan Pugazhendhi and Shyama Prasad Das",
+  "Topic": "Numerical Investigation of Unsteady Performance of a High Pressure Transonic Turbine Stage of a Small Engine"
+ },
+ "6349":{
+  "Speakers": "Argha Bose, D Shanmugasundaram and Vasudevan Raghavan",
+  "Topic": "Numerical Study on Soot Formation of Methyl Methacrylate Pool Flames with Coflow Air"
+ },
+ "6380":{
+  "Speakers": "Akash Asokan and Santhosh K. S",
+  "Topic": "Performance Analysis of Compound Micro Pin-fins in Rectangular Microchannel using OpenFoam."
+ },
+ "6382":{
+  "Speakers": "Nadeem Ahmed, Govind Maurya, Alok Kumar and Suneet Singh",
+  "Topic": "Picard and Newton-Based Preconditioned Nodal Integral Method for the solution of Fluid Flow Equations"
+ },
+ "6439":{
+  "Speakers": "Shaik Dilshad Begum, Trilok G and Gnanasekaran N",
+  "Topic": "Flow and heat transfer phenomena through porous media under turbulent regime"
+ },
+ "6446":{
+  "Speakers": "Medipati Chandrasekhar, Deivandren Sivakumar and Raghuraman N Govardhan",
+  "Topic": "Effect of nozzle internal shape on near field characteristics of transverse liquid jet in a supersonic crossflow"
+ },
+ "6463":{
+  "Speakers": "Ashok Kumar Gond, Dipankar Narayan Basu and Amaresh Dalal",
+  "Topic": "Numerical investigation of heat transfer characteristics of sCO2 in a vertical divergent tapered annular channel"
+ },
+ "6466":{
+  "Speakers": "Shubham Giri, V. Kartik, Amit Agrawal and Rajneesh Bhardwaj",
+  "Topic": "Experimental and Theoretical Analysis of Flow-induced Vibration of Cantilevered Flexible Plate"
+ },
+ "6472":{
+  "Speakers": "Deepak Kumar Rathour and Atul Kumar Soti",
+  "Topic": "Experimental investigation of vortex-induced vibration of a circular cylinder mounted on a cantilever beam"
+ },
+ "6501":{
+  "Speakers": "Siddharth D. Sharma, Piru Mohan Khan, Suman Chakraborty and Somnath Roy",
+  "Topic": "Numerical Study on the Effect of Exercise on Various Configurations of Stenosis in Coronary Artery"
+ },
+ "6520":{
+  "Speakers": "Md. Adil and Pratik Punj",
+  "Topic": "Deep Learning Approach to Predict Remaining Useful Life of Axial Piston Pump"
+ },
+ "6535":{
+  "Speakers": "Satya Prakash Saraswat, Nicola Forgione, Francesco Galleni, Marica Eboli and Alessandro Del Nevo",
+  "Topic": "Numerical investigation of LIFUS5\/Mod3 Series E experiment Test 5.1 towards thermal-hydraulic system code SIMMER III validation"
+ },
+ "6537":{
+  "Speakers": "Prakasha Chandra Sahoo, Jnana Ranjan Senapati and Basanta Kumar Rana",
+  "Topic": "Droplet impact and spreading around the Right Circular Cone: A numerical approach"
+ },
+ "6560":{
+  "Speakers": "Aswani Sugathan and Abhilash R",
+  "Topic": "INVESTIGATIONON SECONDARY FLOW LOSS REDUCTION FOR A JUNCTION FLOW USING A FFS GEOMETRY"
+ },
+ "6567":{
+  "Speakers": "Shabeeb N. P. and Aniruddha Sinha",
+  "Topic": "Jet Noise Prediction Using Turbulent Scales from LES and RANS"
+ },
+ "6574":{
+  "Speakers": "P M Vamsi Krishna and B Ravindra",
+  "Topic": "Effect of Crosswind on Vehicle dynamics"
+ },
+ "6589":{
+  "Speakers": "Ananya Majumdar, Biplab Ranjan Adhikary and Partha Bhattacharya",
+  "Topic": "Reduction in turbulence-induced non-linear dynamic vibration using tuned liquid damper (TLD)"
+ },
+ "6600":{
+  "Speakers": "Soumarup Bhattacharyya, Izhar Hussain Khan, Puja Sunil, Sanjay Kumar and Kamal Poddar",
+  "Topic": "Estimation of drag behind a tapered cylinder using Direct Drag Measurement"
+ },
+ "6606":{
+  "Speakers": "Surendra Singh Rathore, Balkrishna Mehta, Pradeep Kumar and Mohammad Asfer",
+  "Topic": "Parametric Study on the Primitive lattice using the Pore-scale Simulation to characterize the Flow and Heat Transfer Performance"
+ },
+ "6626":{
+  "Speakers": "Shashikant Verma, Neha Vishnoi, Agustin Valera Medina, Aditya Saurabh and Lipika Kabiraj",
+  "Topic": "Numerical simulation of isothermal flow through co- and counter-rotating dual swirl burner"
+ },
+ "6638":{
+  "Speakers": "Makrand Rakshe, Sachin Kanhurkar, Amitabh Bhattacharya and Prasanna Gandhi",
+  "Topic": "Experimental and numerical studies on liquid bridge stretching in uni-port lifted Hele-Shaw cell for spontaneous fabrication of well-like structures"
+ },
+ "6640":{
+  "Speakers": "K Niju Mohammed, A Shebin, E Muhammed Haseeb, P.S Tide, Franklin R John, Ranjith S Kumar and S.S Sreejakumari",
+  "Topic": "Effect of Direct Current Electrowetting-on-Dielectric on Droplet Impingement Dynamics"
+ },
+ "6666":{
+  "Speakers": "Venkatramani Jagadish, Sourabh Kumar, Dheeraj Tripathi and Ankit Gupta",
+  "Topic": "Effect of damping on bifurcation and synchronization behaviour of an aeroelastic system under dynamic stall"
+ },
+ "6684":{
+  "Speakers": "Arupjyoti Kakati, Saurabh Gupta and Arindam Bit",
+  "Topic": "Influence of thermo-coupled flowing fluid on cell adhesion: Numerical study"
+ },
+ "6691":{
+  "Speakers": "Debdeep Bhattacharjee, Arnab Atta and Suman Chakraborty",
+  "Topic": "Evolution of ferrofluid droplet deformation under magnetic field in a uniaxial flow"
+ },
+ "6702":{
+  "Speakers": "K. K. Krishnaram and S. Kumar Ranjith",
+  "Topic": "Numerical investigation on inertial migration of spherical rigid particle in the entrance region of a microchannel"
+ },
+ "6705":{
+  "Speakers": "Arijit Saha, Arkadeep Datta, Arani Mukhopadhyay, Amitava Datta and Ranjan Ganguly",
+  "Topic": "Time-dependent droplet detachment behaviour from wettability-engineered fibers during fog harvesting"
+ },
+ "6732":{
+  "Speakers": "Abhishek Thakur, Atul Sharma and Sandip Saha",
+  "Topic": "Flow-Induced Vibration of an Elastically-Mounted Cylinder under the influence of downstream Stationary Cylinder"
+ },
+ "6733":{
+  "Speakers": "Sandeep Kulkarni, Pranav Malasane, Nimesh Zanje, Yogesh Metkari, Niranjan Ghadge, Sneha Athawale and Pramod Kothmire",
+  "Topic": "CFD analysis of Drag Reduction System (DRS) in cars"
+ },
+ "6753":{
+  "Speakers": "Subhajyoti Sahoo and Ameeya Kumar Nayak",
+  "Topic": "Dynamics of electrically actuated Carreau fluid flow in surface modulated microchannel"
+ },
+ "6760":{
+  "Speakers": "Vikram Bisht, Atul Srivastava and Milind Atrey",
+  "Topic": "Investigation of single channel closed loop pulsating heat pipe"
+ },
+ "6791":{
+  "Speakers": "Navdeep Pandey and Aniruddha Sinha",
+  "Topic": "Multi-domain reduced-order model for store trajectory prediction"
+ },
+ "6814":{
+  "Speakers": "Abhinand S, Amrita Sharma and Hardik Kothadia",
+  "Topic": "A numerical study on the combined effect of Y-shaped fin and Alumina nanoparticles on PCM solidification"
+ },
+ "6831":{
+  "Speakers": "Pitchai Pillai Sharmila and Dhiman Chatterjee",
+  "Topic": "Steady-state analysis of purge flow passage on the performance of the high-pressure transonic axial turbine at different mass flow ratios"
+ },
+ "6855":{
+  "Speakers": "Adithya Krishna Menon and Vinod V.",
+  "Topic": "Proposal of a Mutual Inertia Force Coupling on the Wake Oscillator Model for Vortex Induced Vibrations"
+ },
+ "6862":{
+  "Speakers": "Rajneesh Kumar and Pradeep Kumar Jha",
+  "Topic": "Investigation on EMS Induced Solidification and Inclusion Behavior with Curved Mold in Continuous Casting Process"
+ },
+ "6893":{
+  "Speakers": "Ravi Beniwal and Himanshu Tyagi",
+  "Topic": "Thermodynamic Analysis of Indirect Evaporative Cooling System for use in Data Centers"
+ },
+ "6927":{
+  "Speakers": "Tanmoy Pal and Asoke Kumar Dhar",
+  "Topic": "Stability analysis from fourth-order nonlinear multiphase deep water wavetrains"
+ },
+ "6929":{
+  "Speakers": "Surendra Soni and Pankaj Sharadchandra Kolhe",
+  "Topic": "Drop size and velocity distributions of bio-oil spray produced by airblast atomizer"
+ },
+ "6955":{
+  "Speakers": "Anand Verma and Vinayak Kulkarni",
+  "Topic": "Computational Analysis of Performance and Flow Field of Airfoil in Low Reynolds Number Regime"
+ },
+ "6958":{
+  "Speakers": "Soham Mahindar, Mushtaque Momin and Mukesh Sharma",
+  "Topic": "Numerical Investigation of Oil-Water Two Phase Flow Through Sudden Contraction"
+ },
+ "6962":{
+  "Speakers": "Nikhil Prasad, Indulakshmi B, Rahul R and Ranjith S. Kumar",
+  "Topic": "Heat Transfer Analysis of Peltier-Based Thermocycler for a Microfluidic-PCR Chip"
+ },
+ "6977":{
+  "Speakers": "Saurabh Gunturkar, Rohan Patil, Prathamesh Dhamnikar, Pranav Malasane and Archana Mane",
+  "Topic": "DESIGN AND ANALYSIS OF FINS ON ELECTRIC MOTOR"
+ },
+ "6978":{
+  "Speakers": "Deepak Talan and Shyam Sunder Yadav",
+  "Topic": "Non-Isothermal, Incompressible Flow of a Viscoelastic Fluid Inside a Square Cavity at High Weissenberg number"
+ },
+ "6981":{
+  "Speakers": "Prahlad V Deshpande, Nagaharish G N, Nitesh Basavaraj Hallad, Abdulrajak Buradi, Madhusudhan Acharya and Bhaskor Jyoti Bora",
+  "Topic": "Geometric Influence on the Subsonic Flow Over Rotating Slender Bodies at Low Angle of Attack"
+ },
+ "7001":{
+  "Speakers": "Shivji Prasad Yadav, Amit Agrawal and Atul Sharma",
+  "Topic": "Continuum Approach-based Accurate Modelling for the Blood Flow Simulation in a Microchannel"
+ },
+ "7010":{
+  "Speakers": "Ashutosh Kumar Jaiswal, Amitabh Bhattacharya and Anupam Dewan",
+  "Topic": "Development of a Coupled RANS-LES Solver for Numerical Simulation of Turbulent Wall Bounded Flows"
+ },
+ "7030":{
+  "Speakers": "Pramodini Patil, Ashish Birajdar, Darshan Kuwar, Rugved Naigaonkar, Varad Madhavi, Vishal Gaikwad and Pramod Kothmire",
+  "Topic": "CFD Analysis of Different Rocket Nozzles"
+ },
+ "7055":{
+  "Speakers": "Sandeep Lamba and Krishna Kant Agrawal",
+  "Topic": "Impact of computational domain and cell type on Large Eddy Simulations in OpenFOAM for a turbulent partially premixed flame"
+ },
+ "7090":{
+  "Speakers": "Sachin Tom, Mangarjuna Rao P, Raghupathy S and Venkatraman B",
+  "Topic": "Numerical study on single-phase and two-phase flow and heat transfer of liquid sodium in a 7-pin test subassembly of SFR"
+ },
+ "7093":{
+  "Speakers": "Rahul Ray, Aurovinda Mohanty and Pandaba Patro",
+  "Topic": "Effect of interruption on a shrouded fin heat sink: A numerical study"
+ },
+ "7101":{
+  "Speakers": "Agneev Roy, Sandeep Kumar and Somnath Ghosh",
+  "Topic": "DNS and LES of Turbulent Supersonic Plane Channel Flow Using High Order TENO Schemes."
+ },
+ "7103":{
+  "Speakers": "Sima Nayak, Niranjan Sahoo and Masaharu Komiyama",
+  "Topic": "Fabrication and Thermal Characterization of a Coaxial Thermal Probe"
+ },
+ "7125":{
+  "Speakers": "Ankita Dawar and Beena Baloni",
+  "Topic": "Numerical analysis of perforated plate use for cooling data center and server room"
+ },
+ "7132":{
+  "Speakers": "Dhiren Mohapatra, Rahul Purwar and Amit Agrawal",
+  "Topic": "Effect of Viscosity on the margination of White Blood Cells in an inertial flow Microfluidic Channel"
+ },
+ "7137":{
+  "Speakers": "Pradeep Gupta, Harsh Kulkarni, Aneesh A M, Pramod Kumar and Srisha M V Rao",
+  "Topic": "Reconstructing Laser Scattering Images from High-speed Schlieren Images using Convolutional Neural Network"
+ },
+ "7140":{
+  "Speakers": "Ajit Kumar Jha, P. Shukla and Pradyumna Ghosh",
+  "Topic": "PIV Investigation of Transition of Natural Convection Flow over a Slanted Flat Plate"
+ },
+ "7156":{
+  "Speakers": "Puja Sunil, Sanjay Kumar and Kamal Poddar",
+  "Topic": "Mechanism of flow generation past a rotationally oscillating cylinder with an attached filament"
+ },
+ "7191":{
+  "Speakers": "Aravindan S, Sreedharan K.V., Partha Sarathy U and John Arul",
+  "Topic": "Study of pocket pressure and load bearing capacity in pocket type hydrostatic bearing under rotation"
+ },
+ "7202":{
+  "Speakers": "Rohit, Syed Ahsan Haider and Abhishek Raj",
+  "Topic": "ANN Aided Prediction of Young’s Modulus of PDMS Membrane Using Droplet Motion"
+ },
+ "7241":{
+  "Speakers": "Dhruvkumar Wankawala and Pranab Kumar Mondal",
+  "Topic": "Experimental investigation of non-Newtonian droplet splitting in a microfluidic T-junction"
+ },
+ "7250":{
+  "Speakers": "Aditya Ranjan, Vijay S. Duryodhan and Nagesh D. Patil",
+  "Topic": "Effect of aging on passive drug diffusion through human skin"
+ },
+ "7255":{
+  "Speakers": "Vimal Patel and Rajashekhar Jeela",
+  "Topic": "Effect of central shaft on performance of Darrieus Turbine"
+ },
+ "7262":{
+  "Speakers": "Amit Kumar Ghosh and Pabitra Halder",
+  "Topic": "Study on Melting of Beeswax Dispersed with Ferro-Nanoparticles inside a Square Annulus Cavity under an External Magnetic Field"
+ },
+ "7263":{
+  "Speakers": "Balamurugan Ganesan, Yi Hui Tee, R. Jason Hearst and James R Dawson",
+  "Topic": "Free surface effects on rotating cylinder"
+ },
+ "7283":{
+  "Speakers": "Deep Shikha and Sawan S Sinha",
+  "Topic": "Machine learning assisted modeling of pressure Hessian tensor"
+ },
+ "7290":{
+  "Speakers": "Rakshita Joshi and Jaywant Arakeri",
+  "Topic": "A Novel Experimental Apparatus for Studying Self-Propulsion"
+ },
+ "7334":{
+  "Speakers": "Rahul Patil and Sheshadri Sreedhara",
+  "Topic": "Exergy analysis of Deflagration wave propagating in autoignitive H2 mixture for constant pressure boundary conditions"
+ },
+ "7371":{
+  "Speakers": "Khan Haider Ali, Goharzadeh Afshin and Jarrar Firas Salah",
+  "Topic": "Experimental Study of Ferrofluid Slug Flow under a Uniform Magnetic Field"
+ },
+ "7397":{
+  "Speakers": "Abhishek Sharma, Ashoke De and T. John Tharakan",
+  "Topic": "Numerical Investigation of Combustion Dynamics in a Multi-Element Combustor using Flamelet approach"
+ },
+ "7413":{
+  "Speakers": "Rehan Ansari, Mohammad Saqlain Fakhr, Osama Khan, Uzair Sain and Arnab Ganguly",
+  "Topic": "Numerical and Experimental Analysis of Liquid Cold Plate Thermal Management System for High Powered Electronics"
+ },
+ "7431":{
+  "Speakers": "Bimalendu Mahapatra, Rupayan Jana and Aditya Bandopadhyay",
+  "Topic": "Neutral-solute band transport in a non-Newtonian electroosmotic flow through micropillar embedded channel"
+ },
+ "7436":{
+  "Speakers": "Darshan Kuwar, Prasad Wakchaure, Rajeshwari Shinde, Tanuja Himparge and Shreekant Patil",
+  "Topic": "DESIGN AND ANALYSIS OF AUTOMATED PESTICIDE SPRAYER WITH DETECTION AND INSPECTION OF GRAPES USING MACHINE LEARNING"
+ },
+ "7439":{
+  "Speakers": "Raja Mangalagiri and Satya Pramod Jammy",
+  "Topic": "Effect of separation bubble length in laminar hypersonic curved ramp induced shockwave boundary layer interactions"
+ },
+ "7449":{
+  "Speakers": "Sambit Senapati, Vighnesh Prasad, Anil Dubey and Satyabhama Alangar",
+  "Topic": "Discrepancy in predicted head loss of non-Newtonian aqueous suspension of fly ash with two different Yield stress values obtained from Rheological data"
+ },
+ "7457":{
+  "Speakers": "Omkar Sawant, Chandan Bhardwaj, Saurav Sharma and Prof.Swagata Bhaumik",
+  "Topic": "Effect of reduced mass on two-dimensional compressible flow past circular cylinder"
+ },
+ "7460":{
+  "Speakers": "Kapil Kumar Sharma and Pradeep Kumar Jha",
+  "Topic": "Effect of nozzle geometry on slag entrapment during thin slab continuous casting process"
+ },
+ "7465":{
+  "Speakers": "Margam Ramprasad and Dr. Manoj Kumar Moharana",
+  "Topic": "Numerical study of plate-fin heat exchanger for cryogenic application"
+ },
+ "7466":{
+  "Speakers": "Pratik Punj and Md Adil",
+  "Topic": "Instantaneous RUL Prediction of a Two-Stage Force Feedback Electro-Hydraulic Servo Valve (EHSV)"
+ },
+ "7474":{
+  "Speakers": "Tarannum Mujawar and Jyotirmay Banerjee",
+  "Topic": "Characteristics of the Wave Crest and Validation of the Time Model for Gas-Liquid Two-Phase Flow"
+ },
+ "7483":{
+  "Speakers": "Amir Yousf Sofi and Adnan Qayoum",
+  "Topic": "Heat Transfer and Fluid Flow Characteristics in a Two Pass Duct with Variable Rib Shapes: A CFD Analysis"
+ },
+ "7486":{
+  "Speakers": "Mudrika Singhal and Raghvendra Gupta",
+  "Topic": "Computational investigation on the empirical relation of Murray’s law"
+ },
+ "7510":{
+  "Speakers": "Prabhansu and Downmore Musademba",
+  "Topic": "Experimental investigation on the influence of bed height and bed particle size on bed expansion for a bubbling fluidized bed"
+ },
+ "7519":{
+  "Speakers": "Sudheer Siddapureddy and Rajat Joshi",
+  "Topic": "Numerical Simulations of AMRI Hospital Fire Accident 2011: A Case Study"
+ },
+ "7533":{
+  "Speakers": "Manu K Sukesan, Ashok Kumar and Shine S R",
+  "Topic": "Effect of Divergence Angle, Carrier Gas and Back Pressure on Species Separation using Convergent Divergent Micro Nozzle"
+ },
+ "7539":{
+  "Speakers": "Saumendra Nath Mishra, Siddhartha Banerjee, Sourav Sarkar, Achintya Mukhopadhyay and Swarnendu Sen",
+  "Topic": "Investigation on passive thermal management using phase change materials encapsulated over 18650 lithium ion battery"
+ },
+ "7545":{
+  "Speakers": "Niraj Shah, Vishwajeetsinh Rahevar, Prayag Desai, Sheetal Pandya and Amit Arora",
+  "Topic": "Thermal and Hydraulic study of Minichannel with Irregular Surface Topology"
+ },
+ "7548":{
+  "Speakers": "S. N. Abhinav Kumar K, Parag J Deshpande, Ravi Dodamani and Geetanjali N Alle",
+  "Topic": "Kinematics of a Low Aspect Ratio Pitching Flexible Panel- A New Insight"
+ },
+ "7556":{
+  "Speakers": "Akhalesh Sharma, Jay Kumar Joshi, Vivek Saxena and Santosh Kumar Sahu",
+  "Topic": "Influence of double fin shape on constrained melting of PCM in a spherical capsule: A numerical study"
+ },
+ "7561":{
+  "Speakers": "Manoj N. Dixit and Raghuraman N. Govardhan",
+  "Topic": "Effect of particle shape on the interaction of a vortex ring with a buoyant particle"
+ },
+ "7574":{
+  "Speakers": "Parag P. Mangave, Vishal V. Patil, Nilesh D. Pawar and Ranjit S. Patil",
+  "Topic": "Experimental investigations on emissions and performance of a spark-ignition engine fuelled with butanol-pentane-gasoline blends"
+ },
+ "7582":{
+  "Speakers": "Lijukrishnan P, Indranil Banerjee, Manikandan S, Rammohan S, Vinod V and Raghupathy S",
+  "Topic": "Study on gas bubble escapes probability in surge tank using water model experiment"
+ },
+ "7595":{
+  "Speakers": "Dinesh Kumar Jain and Arvind V. Deshpande",
+  "Topic": "Mathematical Modeling and Optimization of Cylindrical Heat Pipe"
+ },
+ "7602":{
+  "Speakers": "Prayag Raj Chanda and Agnimitra Biswas",
+  "Topic": "Selection of Passive Features for Building Energy using Fuzzy MCDM Based Approach"
+ },
+ "7656":{
+  "Speakers": "Divyaprakash and Amitabh Bhattacharya",
+  "Topic": "Sensing Particulate Flows using Arrays of Passive Artificial Cilia"
+ },
+ "7686":{
+  "Speakers": "Kamal Raj Sharma, Malkeet Singh, Jyoti Gupta and Arun K Saha",
+  "Topic": "3D-PTV Measurements of an Axisymmetric Synthetic Jet"
+ },
+ "7691":{
+  "Speakers": "Prasanna Kumar Billa, Tejaswi Josyula and Pallab Sinha Mahapatra",
+  "Topic": "Anomalous motion of a sphere upon impacting a quiescent liquid: Influence of surface wettability"
+ },
+ "7724":{
+  "Speakers": "Shubhali Singh, Parul Tyagi and Vimal Kumar",
+  "Topic": "CFD MODELLING OF SYNGAS HYDRODYNAMICS AND MASS TRANSFER IN A LIQUID-PHASE SLURRY REACTOR FOR METHANOL SYNTHESIS USING BIOMASS-DERIVED SYNGAS"
+ },
+ "7736":{
+  "Speakers": "Onkar Bichkar and M G",
+  "Topic": "Effect of Reynolds Number on Bubble Rise in Viscoelastic Fluid in a Wavy Channel"
+ },
+ "7757":{
+  "Speakers": "Subodh Khullar, Sandeep Kumar, Krishna Singh, Michel J Cervantes and Bhupendra Gandhi",
+  "Topic": "Numerical Study of Peripheral Air Injection in Draft Tube of a Francis Turbine at Upper and Normal Part Load Operation"
+ },
+ "7787":{
+  "Speakers": "Thilak B, Mangarjuna Rao P and Raghupathy S",
+  "Topic": "Analysis of Fission Gas-Fuel Particle Dispersion in a Voided Triangular Channel under Sustained PCM Conditions"
+ },
+ "7791":{
+  "Speakers": "Paul Tony, Jeswin Jose, Siddini Venkatesh Prabhu and Pramod Kuntikana",
+  "Topic": "Experimental Study of Air Entrainment in Domestic Gas Burners"
+ },
+ "7808":{
+  "Speakers": "Harshad Patel and Nilesh Patel",
+  "Topic": "STUDY OF CASSON BLOOD FLOW IN STENOSED ARTERY WITH MAGNETIC FIELD AND THERMAL DIFFUSION EFFECTS"
+ },
+ "7818":{
+  "Speakers": "Ishita Jain, Issam Wajih and S. Sarkar",
+  "Topic": "The Influence of Riblet Shapes on the Flow Characteristics"
+ },
+ "7838":{
+  "Speakers": "Mrigank Jha and Kannan Iyer",
+  "Topic": "A compressible bubble growth model in a depressurized liquid"
+ },
+ "7847":{
+  "Speakers": "Bhuvaneshwar Gera, Nandan Saha, Aditya Karanam, Pavan Sharma, I. Thangamani, Shubham Mishra, Priyanshu Goyal, Anu Dutta, Vishnu Verma and Jayanta Chattopadhyay",
+  "Topic": "Inter-code Comparison Exercise for Predicting Transient Helium Distribution in a Scale down Containment Facility, CSF"
+ },
+ "7849":{
+  "Speakers": "Abhishek Kumar, Shaligram Tiwari and Shyama Prasad Das",
+  "Topic": "Effect of shear intensity on the wake characteristics of a sphere"
+ },
+ "7853":{
+  "Speakers": "Ajay Rawat, A. Jasmin Sudha, Subramanian V. and B Venkatraman",
+  "Topic": "CFD Modeling of Hydrodynamic Jet Breakup of Molten Nuclear Fuel in the Coolant"
+ },
+ "7857":{
+  "Speakers": "Ravi Kumar and S. Sarkar",
+  "Topic": "Transition of the Boundary Layer Subjected to Freestream Turbulence"
+ },
+ "7880":{
+  "Speakers": "Manish K. Mathur, Murali R. Cholemari, Srinivas V. Veeravalli and Mukesh Khare",
+  "Topic": "Computational and Experimental study of particle dispersion in the turbulent wake of a simplified car model (Ahmed body)"
+ },
+ "7883":{
+  "Speakers": "Anushka Anushka, Prashant Narayan Panday, Prasanta Kumar Das and Aditya Bandopadhyay",
+  "Topic": "Experimental Investigation of Droplet Spreading on Porous Media"
+ },
+ "7905":{
+  "Speakers": "Aditi Sharma, Bikash Mahato and Shanmugadas K. P",
+  "Topic": "Investigation of the liquid sheet breakup dynamics in like-on-unlike impinging injectors"
+ },
+ "7926":{
+  "Speakers": "Vishal Ghatbandhe, Pankaj Mahajan, Ranjit Gavhane and Anmol Sharma",
+  "Topic": "Numerical Estimation and Validation of Pressure Pulsation in Centrifugal Pump Discharge Pipes"
+ },
+ "7944":{
+  "Speakers": "Maya Kurulekar, Krishnaswamy Kumar and Shardul Joshi",
+  "Topic": "Retrieving Energy from an Inline Hydro Turbine of Irrigation dependent Hydropower Plant under Part Flow Conditions"
+ },
+ "7952":{
+  "Speakers": "Kushan D S, Goutam Chakraborty, Biswajit Maiti, Sukanta Kumar Dash, Arun Kumar Samantaray and Sanat Kumar Singha",
+  "Topic": "On Hydrodynamics of Dry Granulation of LD\/BOF Slag using Spinning Disc Atomizer: Choice of Experimental Methodology"
+ },
+ "7975":{
+  "Speakers": "Ayush Kumar Rao, Shivam Singh and Harish Pothukuchi",
+  "Topic": "Numerical investigation of mist flow characteristics in a hexagonal fuel rod bundle"
+ },
+ "8013":{
+  "Speakers": "Dr Srinivasa Rao Gurrala",
+  "Topic": "CFD Analysis of Afterburner with Convergent Divergent Nozzle for Various Air Fuel Ratios"
+ },
+ "8014":{
+  "Speakers": "Dasari Navya and Dr. Vishnu Prasad",
+  "Topic": "Study on Effect of Turbine Operating Conditions on Conical Draft Tube Performance"
+ },
+ "8026":{
+  "Speakers": "Prashant Narayan Panday, Anushka Anushka, Prasanta Kumar Das and Aditya Bandopadhyay",
+  "Topic": "Experimental investigation of coalescence dynamics of oil droplets on water surface under the influence of low amplitude surface excited waves"
+ },
+ "8028":{
+  "Speakers": "B.S Renjith, K Niju Mohammed and S.Kumar Ranjith",
+  "Topic": "Droplet Impact on a superheated concave surface having a Curvature Ratio of Unity"
+ },
+ "8031":{
+  "Speakers": "Anirudh Jonnalagadda, Atul Sharma and Amit Agrawal",
+  "Topic": "Higher order Onsager Regularized LBM for the non-zero Knudsen number flows"
+ },
+ "8035":{
+  "Speakers": "Dr. S. Aravind Seeni",
+  "Topic": "Development of new technology and design framework for supersonic transport aircraft"
+ },
+ "8055":{
+  "Speakers": "Sourabh Khambra, Chandan Kumar, Dipankar Chatterjee and Bittagopal Mondal",
+  "Topic": "Predicting the flight behaviour of a guided projectile through a six degree of freedom trajectory model"
+ },
+ "8062":{
+  "Speakers": "B S Bijo and S.Kumar Ranjith",
+  "Topic": "The Effect of Hot Gas Injection on Thrust Vector Control in a Double Divergent Nozzle - A Numerical Investigation"
+ },
+ "8080":{
+  "Speakers": "Priyanka Hankare, Sanjeev Kumar Manjhi and Viren Menezes",
+  "Topic": "Investigation of Impulse Jet Dispersion Mechanism of Needle-Free Drug Delivery Device"
+ },
+ "8087":{
+  "Speakers": "Naveen Rohilla and Partha Goswami",
+  "Topic": "Assessment of local isotropy of fluid phase velocity scales in a particle-laden turbulent channel flow"
+ },
+ "8092":{
+  "Speakers": "Mangesh Chaudhari and Dheeraj Kakade",
+  "Topic": "Thermal Optimization of Server Using Dielectric Fluid for Single Phase Immersion Cooling"
+ },
+ "8098":{
+  "Speakers": "S. Venkateswarlu, E. Hemanth Rao and G. V. Prasad Reddy",
+  "Topic": "Numerical investigation of boiling phenomena in SFR core debris bed"
+ },
+ "8110":{
+  "Speakers": "Ravi Raushan, Yogesh M. Nimdeo and Harish Pothukuchi",
+  "Topic": "Numerical Simulation of Single Bubble Growth in a Saturated Ethylene Glycol – Water Mixture"
+ },
+ "8112":{
+  "Speakers": "Sewa Singh and Prof. Raj Kumar Anand",
+  "Topic": "Effect of overtaking disturbances on the motion of Strong Cylindrical MHD shock waves in a self-gravitating Van der Waals"
+ },
+ "8115":{
+  "Speakers": "Kushal Prasad Choudhary, Shyama Prasad Das and Shaligram Tiwari",
+  "Topic": "Introduction of critical filling parameter on Faraday instability and its dependencies on fluid densities"
+ },
+ "8117":{
+  "Speakers": "Jangyadatta Pasa, Gaurav Khandelwal and Venugopal Arumuru",
+  "Topic": "Proper Orthogonal Decomposition Analysis of Flow Characterization of Adjacent Synthetic Jets"
+ },
+ "8138":{
+  "Speakers": "Sibasish Panda, Pratyush Kumar Mohanty, Prateek Gupta and Chinu Routa",
+  "Topic": "Numerical study of impulsive motion past a rotating cylinder for Newtonian and non-Newtonian fluid"
+ },
+ "8168":{
+  "Speakers": "Subradip Debnath, Avinash Kumar, Chirodeep Bakli and Suman Chakraborty",
+  "Topic": "Coalescence of Saltwater Droplets Dispersed in Crude Oil: Coupled Effects of Fluid Rheology and Electric Field"
+ },
+ "8170":{
+  "Speakers": "Vinay Ca, Kumar G N and Giridharababu Y",
+  "Topic": "Engine Exhaust stub sizing for Turboprop powered aircraft"
+ },
+ "8184":{
+  "Speakers": "Shubham Shikhare, Ajinkya Kad, Pankaj Yadav, Adesh Shendkar, Tirupati Khaple, Abhijeet Malge and Pramod Kothmire",
+  "Topic": "Analysis of k-epsilon and k-omega model for drag coefficient and lift coefficient in vertical axis wind turbine"
+ },
+ "8188":{
+  "Speakers": "Avinash Kumar Pandey, Gaurav Sharma and Rajneesh Bhardwaj",
+  "Topic": "Dynamic response of a cantilevered flexible vertical plate in a uniform inflow at Re = 100."
+ },
+ "8225":{
+  "Speakers": "Chandra Kumar M, Jasmin Sudha A, Subramanian V and Venkatraman B",
+  "Topic": "Numerical Study on the Jet Breakup of Molten Nuclear fuel in the Coolant in Dripping Regime"
+ },
+ "8227":{
+  "Speakers": "Mohit Bansal, Satyam Dewivedi and Abdur Rahim",
+  "Topic": "Computational Analysis of the Thermo Hydrodynamic Characteristics In A Can Type Gas Turbine Combustor"
+ },
+ "8237":{
+  "Speakers": "Himanshu Jangid, Amit Arora and Yatharth Lilhare",
+  "Topic": "Thermo-hydraulic Assessment of Fin profiles in Internally Finned Tubes"
+ },
+ "8250":{
+  "Speakers": "Anjali Anjali and Premananda Bera",
+  "Topic": "Impact of Media Permeability on Poiseuille flow in Fluid overlying Porous Domain: Effect of Low and High Prandtl Number"
+ },
+ "8266":{
+  "Speakers": "Srinivasa Rao Pentyala and Sandip Chowdhury",
+  "Topic": "Numerical investigation of thermo-bio convection of oxitactic micro-organism in a tilted square cavity heated sinusoidally"
+ },
+ "8268":{
+  "Speakers": "Runa Samanta, Himadri Chattopadhyay and Chandan Guha",
+  "Topic": "Studies on corner melting using lattice Boltzmann method"
+ },
+ "8270":{
+  "Speakers": "Amitanshu Mishra, Paban Kumar Guchhait and Samiran Sengupta",
+  "Topic": "Loss of Electric Power Supply Transient in an Irradiation Test Loop of HFRR"
+ },
+ "8283":{
+  "Speakers": "Venkatshivaram Jadav B, Manokaran K and Vidya G",
+  "Topic": "Venting Performance of an Electro Mechanical Actuator Rubber Bellow Cover of a typical launch vehicle compartment"
+ },
+ "8305":{
+  "Speakers": "Ram Kumar Maity, Sundararajan Thirumalachari, M Rajendrakumar and K Natesan",
+  "Topic": "Towards analysis of Corium hydraulics in liquid sodium"
+ },
+ "8311":{
+  "Speakers": "Ankit Dev, Ravi Kumar, R.P. Saini and Veena Chaudhary",
+  "Topic": "Experimental Investigation on the Solar Photovoltaic Thermal Collector with Phase Change Material"
+ },
+ "8312":{
+  "Speakers": "Anand S and Chander Shekhar Sharma",
+  "Topic": "Development and Validation of Device Level Model for Thin-Film Evaporation"
+ },
+ "8339":{
+  "Speakers": "Rahuram Chanthrakumar, Sadees P, Doddamani Hithaish and Abdus Samad",
+  "Topic": "Effect of Cavity Tip on the Performance of a Wells Turbine"
+ },
+ "8345":{
+  "Speakers": "Quaneet Laraib, Avik Saha and Arup Das",
+  "Topic": "Water Filtration by Sequential Boiling and Condensation: A Molecular Dynamics Approach"
+ },
+ "8369":{
+  "Speakers": "Tauhid Sheikh, Dhiraj Gangurde, Anuj Bhaskar, Ranjeet Bhosale, Asha Honshette, Rushikesh Thange and Pramod Kothmire",
+  "Topic": "CFD ANALYSIS OF DIESEL ENGINE INTAKE MANIFOLD"
+ },
+ "8381":{
+  "Speakers": "Tejas Bhavsar, Kalp Patel, Sanjay Jain and Vikas Lakhera",
+  "Topic": "Performance Enhancement of Solar Air Heater with Reverse NACA 0040 Profile Ribs in V-Down Orientation"
+ },
+ "8385":{
+  "Speakers": "Pranav Joshi, Prithviraj Ghule and Om Kolhatkar",
+  "Topic": "COMPUTATIONAL STUDY OF THE EFFECT OF A BUMP GEOMETRY ON A 2-D SUPERSONIC INLET."
+ },
+ "8395":{
+  "Speakers": "Prabhakar Kumar, Srijna Singh and Rajesh Reddy",
+  "Topic": "Computational Study of Unsteady Cavitating Flow on 3D NACA4412 Hydrofoil"
+ },
+ "8396":{
+  "Speakers": "Dandugula Nandini, Seik Mansoor Ali and John Arul",
+  "Topic": "Validation of numerical model using Fire Dynamics Simulator for a fire in a compartment with a horizontal vent"
+ },
+ "8399":{
+  "Speakers": "Kunal Dey, Devendra Kumar Vishwakarma, Arpan Kumar Sharma and Suvanjan Bhattacharyya",
+  "Topic": "Influence of magnetic field on thermal and flow performance of inclined mini channel"
+ },
+ "8413":{
+  "Speakers": "C Suresh and Sandip K Saha",
+  "Topic": "EFFECT OF POROUS-FIN ON PERFORMANCE ENHANCEMENT OF SHELL TUBE LATENT HEAT THERMAL STORAGE SYSTEM"
+ },
+ "8419":{
+  "Speakers": "Apurav Tambe, Shubham Agarwal and Purbarun Dhar",
+  "Topic": "Electromagnetohydrodynamic (EMHD) flow actuation with patterned wettability"
+ },
+ "8444":{
+  "Speakers": "Channaveera Shastry D M and Hiranya Deka",
+  "Topic": "The closure dynamics of the liquid sheet generated during the impact of a liquid drop on a liquid pool"
+ },
+ "8447":{
+  "Speakers": "Naveen Naik Kethavath, Kingshuk Mondal and Niranjan S Ghaisas",
+  "Topic": "Surface Roughness Heterogeneity Effects on A Five Turbine Wind Farm Evaluated Using Large Eddy Simulation"
+ },
+ "8453":{
+  "Speakers": "Lima Biswas and Priyanka Shukla",
+  "Topic": "Resonant three-wave interactions in a shear flow with density stratification"
+ },
+ "8459":{
+  "Speakers": "Shani Saha, Rohit Sherawat, Arvind Kumar, Neeraj Kumbhakarna and Arindrajit Chowdhury",
+  "Topic": "Recrystallized Ammonium Perchlorate Decomposition - A TGA-FTIR-MS Study"
+ },
+ "8463":{
+  "Speakers": "Manisha Mhetre, Samyak Jain, Minal Gaydhane, Rutuj Saraf, Omkar Koli and Gayatri Mhaske",
+  "Topic": "IoT Based Smart Vaporizer"
+ },
+ "8482":{
+  "Speakers": "Pratyush Kumar, Sandip K. Saha and Atul Sharma",
+  "Topic": "Effect of size ratio on permeability and local packing fraction of the binary packed bed"
+ },
+ "8496":{
+  "Speakers": "Neha Vishnoi, Shashikant Verma, Agustin Valera-Medina, Aditya Saurabh and Lipika Kabiraj",
+  "Topic": "Flow and Flame Visualization in a Generic Dual Swirl Burner"
+ },
+ "8498":{
+  "Speakers": "Anishma Uday and Abhilash R",
+  "Topic": "Numerical Study on the Effect of Area ratio on the Exit conditions of a Convergent-Divergent Nozzle with an Enlarged Duct"
+ },
+ "8502":{
+  "Speakers": "Harshal Gamit, Kamal Kishor Pandey, S Srinivas and Manaswita Bose",
+  "Topic": "Mixing in a size segregated fluidized bed: Simulations and Experiments"
+ },
+ "8518":{
+  "Speakers": "Nikhil Yarra Chiranjeevi, Akash Anand and Hiranya Deka",
+  "Topic": "Drop impact on a deep pool: a revisit to the large bubble entrapment regime"
+ },
+ "8538":{
+  "Speakers": "Vimal Chauhan, Shyam Sunder Yadav and Venkatesh Kadbur Prabhakar Rao",
+  "Topic": "2D Numerical Simulation of the Electrospraying Process of a Viscoelastic Liquid in an Ambient, Highly Viscous Liquid"
+ },
+ "8566":{
+  "Speakers": "Kamala Kannan Vijesh and Dr. Manoj Kumar Moharana",
+  "Topic": "Numerical study of cryogenic transfer line under conjugate conditions"
+ },
+ "8572":{
+  "Speakers": "Paridhi Goel, Himanshu Goyal and Swapna Singha Rabha",
+  "Topic": "Coupled adsorption-two fluid modelling of H2 adsorption in solid sorbents"
+ },
+ "8580":{
+  "Speakers": "Shruti Gautam and Pooja Thakur",
+  "Topic": "Effect of an Asymmetrically Confined Rotating Cylinder on Heat Transfer"
+ },
+ "8617":{
+  "Speakers": "Puja Koch, Alankrita Singh and Sudhakar Subudhi",
+  "Topic": "Flow and Heat Transfer Investigation of Liquid Heat Sink for an IGBT Module"
+ },
+ "8626":{
+  "Speakers": "Parth Borse, Atharva Dhore, Atharva Waske and Sandeep Kore",
+  "Topic": "Determination of Heat transfer Condensation in Horizontal pipes"
+ },
+ "8650":{
+  "Speakers": "Khushwant Singh Chauhan and Himanshu Tyagi",
+  "Topic": "Numerically Optimized Thermal Modeling of Fluid Flow and Heat Transfer in Direct Contact Membrane Distillation"
+ },
+ "8668":{
+  "Speakers": "Pragyan Kumar Sarma and Anup Paul",
+  "Topic": "Deformation dynamics during complete rebounding during impact of a falling droplet of varied surface tension on a sessile drop"
+ },
+ "8671":{
+  "Speakers": "Vasthadu Vasu Kannah D L, Mubariz Ahmed and Vishal S",
+  "Topic": "JET NOISE ABATEMENT USING ELLIPTICAL RING TABS"
+ },
+ "8673":{
+  "Speakers": "Virkeshwar Kumar, Shyamprasad Karagadde and Kamal Kumar Meena",
+  "Topic": "Real-time Strengthening of Natural Convection and Dendrite Fragmentation During Binary Mixture Freezing"
+ },
+ "8675":{
+  "Speakers": "Suriya C R, Dhrumil Ganatra and Rajendrakumar M",
+  "Topic": "Heat Transfer Enhancement in Turbulent Natural Convection of Nanofluids"
+ },
+ "8677":{
+  "Speakers": "Aman Raj Anand and Vivek Kumar Srivastav",
+  "Topic": "Analysis of 2D Human Airway In Laminar and Turbulent Flow Model"
+ },
+ "8690":{
+  "Speakers": "Anashwara Binod, Bobin Saji George, Deepak G Dilip, Ebel Philip Varghese, Abhishek R and Arjunlal Jawaharlal",
+  "Topic": "Numerical Investigation to Optimize Geometry of Hydrofoil Shaped Container Drone"
+ },
+ "8692":{
+  "Speakers": "Sanjoy Saha, Ashok V, Gopalsamy Muthiah and Manoj Nair",
+  "Topic": "Numerical Prediction of Mean Flow Characteristics of a Supersonic Jet Issuing from a CD Nozzle"
+ },
+ "8693":{
+  "Speakers": "Digamber Singh, Indranil Saha Dalal and Krishnamurthy Muralidhar",
+  "Topic": "Effects of Carotid Artery Shape Perturbations on Blood Flow"
+ },
+ "8705":{
+  "Speakers": "Nikhil Chitnavis, Harish Pothukuchi and B.S.V. Patnaik",
+  "Topic": "Study of bubble growth on a heated vertical surface: Influence of axial flow vibration"
+ },
+ "8716":{
+  "Speakers": "Ali Jraisheh, Jubajyoti Chutia, Amrita Pathak and Vinayak Kulkarni",
+  "Topic": "Laminar Shear Layer Growth in Supersonic Underexpanded Flows"
+ },
+ "8740":{
+  "Speakers": "Ayush Kumar Dixit, Rupak Kumar and Arup Kumar Das",
+  "Topic": "Numerical Investigation of Film Boiling at a Liquid-liquid Interface"
+ },
+ "8747":{
+  "Speakers": "Prithwisha Nath and Animesh Patari",
+  "Topic": "The Differences in the Near Wall Turbulent Structure between a Uniform Flow and a Wall Jet with Co-flow –A Numerical Study"
+ },
+ "8764":{
+  "Speakers": "Mahesh Kurulekar, Krishnaswamy Kumar and Shardul Joshi",
+  "Topic": "System and Method for Enhancing a Net Head of a Reaction Turbine by Redesigning Tail Race Channel"
+ },
+ "8772":{
+  "Speakers": "Vatsal Sanjay and Detlef Lohse",
+  "Topic": "Coalescence induced jumping of drops & bubbles"
+ },
+ "8790":{
+  "Speakers": "Ankani Sunil Varma and K Arul Prakash",
+  "Topic": "Effects of Stenosis Profile on Hemodynamic and Mass Transport in Axisymmetric Geometries: A Numerical Study"
+ },
+ "8795":{
+  "Speakers": "Malkeet Singh, Jyoti Gupta, Kamal Raj Sharma and Arun K. Saha",
+  "Topic": "Proper Orthogonal Decomposition of Axis-Symmetric Isolated Synthetic Jet"
+ },
+ "8820":{
+  "Speakers": "A Ananthakrishnan, Siba Prasad Choudhury, S Syam and Ratan Joarder",
+  "Topic": "Experimental Study on Acoustic Phenomenon in a Closed Combustion Chamber"
+ },
+ "8855":{
+  "Speakers": "Rohit Kumar, Chandan Nashine, Arman Mohaddin Nadaf, Harish Kumar Tomar and Manmohan Pandey",
+  "Topic": "Experimental Investigation of Two-Phase Immiscible Liquid Flow through a Microchannel"
+ },
+ "8865":{
+  "Speakers": "Nihal Dhote, Chetan Shende, Mohan Khond and Chandrashekhar Sewatkar",
+  "Topic": "Parametric Analysis of Centrifugal Pump for Performance Improvement"
+ },
+ "8866":{
+  "Speakers": "Abhishek Kundu",
+  "Topic": "Numerical study of an effect of blast load on the wall after interaction with circular object placed at different position from the shock tube exit"
+ },
+ "8874":{
+  "Speakers": "Auronil Mukherjee, Pratik Srivastava, Arnab Chakraborty and Alankrita Singh",
+  "Topic": "Effect of Different Protrusions on Heat Transfer Characteristics of Turbulent Forced Convective Flow in a Ribbed Channel"
+ },
+ "8883":{
+  "Speakers": "Sudhakar Yogaraj and Sahaj Jain",
+  "Topic": "Drag computation on rough surfaces using a homogenized model"
+ },
+ "8914":{
+  "Speakers": "Anusha Vadde, Anusha Vadde and Anusha Vadde",
+  "Topic": "Computational Analysis of Conductive Fluid Flow with Tangential Components of Magnetic Flux Density and Electric Field in Metallic and Non-Metallic Circular Pipe"
+ },
+ "8931":{
+  "Speakers": "Harsh Deswal, Amit Agrawal and Shiv Govind Singh",
+  "Topic": "Electrolytic Bubble-based Flow Sensing using Electrochemical Resistance Measurement in a Microchannel"
+ },
+ "8935":{
+  "Speakers": "Kollati Prudhvi Ravikumar, Abanti Sahoo and Soumya Sanjeeb Mohapatra",
+  "Topic": "Comparative Study of Droplet Impact Characteristics with Various Viscous Liquids: A Study of both Miscible and Immiscible Droplet Impacts"
+ },
+ "8949":{
+  "Speakers": "Jaswanth K K Alapati and K Srinivasan",
+  "Topic": "Effects of Tabs and their Inclination on Pipe Jet noise"
+ },
+ "8952":{
+  "Speakers": "Ujjwal Chetan, Prabir Kumar Kar, Toshan Lal Sahu, Saurabh Dhopeshwar and Rajaram Lakkaraju",
+  "Topic": "Initial flow behavior in laminar line source twin plumes of equal strength"
+ },
+ "8963":{
+  "Speakers": "Ananya Mandal, Auronil Mukherjee, Soumen Chakraborty and Supratim Saha",
+  "Topic": "Numerical investigation of laminar fluid flow and heat transfer in a filleted grooved channel"
+ },
+ "9022":{
+  "Speakers": "K Manoj, Izhar H Khan, Sanjay Kumar and Kamal Poddar",
+  "Topic": "Wake of a circular cylinder in flowing soap films"
+ },
+ "9027":{
+  "Speakers": "Saran S Rajan and Pradeep Arjunan",
+  "Topic": "Study on the Effect of Operating Parameters on Radial Inflow and Outflow Rotating Detonation Engines"
+ },
+ "9033":{
+  "Speakers": "Arravaram Lakshman, Sandeep Mantri and Satyanand Abraham",
+  "Topic": "Local heat transfer and fluid flow characteristics over cylinder in the presence of vortex generator acting as flow guides"
+ },
+ "9043":{
+  "Speakers": "Bibek Kumar, Gaurav Upadhyay and Rajneesh Bhardwaj",
+  "Topic": "Droplet impact on a hydrophilic flexible surface"
+ },
+ "9049":{
+  "Speakers": "Apurba Roy and Purbarun Dhar",
+  "Topic": "Elastohydrodynamics of electromagnetically actuated deformable microfluidic systems"
+ },
+ "9065":{
+  "Speakers": "Ankur Agrawal and Deepu P",
+  "Topic": "Parametric Study on Marangoni Instability in two-layer Creeping Flow"
+ },
+ "9073":{
+  "Speakers": "Ramesh Kumar, Shivam Raj and Dr. Sushil Kumar Dhiman",
+  "Topic": "Experimental and Numerical analysis of Ferrofluid in Partially Heated closed Rectangular Microchannel Tube under Non-Uniform Magnetic field"
+ },
+ "9074":{
+  "Speakers": "Abhishek Namboodiri, Satish Dokiparti, Ashish Doshi and Mukund Bade",
+  "Topic": "Performance Analysis of Medium Specific Speed PAT for back cavity filling using CFD"
+ },
+ "9079":{
+  "Speakers": "Rahul Kumar Mondal and Parmod Kumar",
+  "Topic": "Influence of liquid discharge rate on the genesis of bathtub vortices with air-entrained structures during draining of a water pool through multiple outlets"
+ },
+ "9086":{
+  "Speakers": "Prabir Sikdar, Sunil Manohar Dash and Kalyan Prasad Sinhamahapatra",
+  "Topic": "Investigation of the Flow Physics in an Oscillating Lid-driven Cavity with a Concentric Square Obstacle using the Lattice Boltzmann Method"
+ },
+ "9095":{
+  "Speakers": "Vikrant Chandrakar and Jnana Ranjan Senapati",
+  "Topic": "A Numerical Investigation of Louvered Funnel Subjected to the Coupled Effect Of Natural Convection and Radiation"
+ },
+ "9109":{
+  "Speakers": "Melvin M Sunny and Kameswararao Anupindi",
+  "Topic": "Numerical investigation of the effect of trailing edge jets on flaps at high angles of deflection"
+ },
+ "9117":{
+  "Speakers": "Akash Damdhar, Saurabh Gunturkar, Sandip Dhumal, Krantisinha Jagtap, Aditya Pathak, Shubham Malkunjikar and Pramod Kothmire",
+  "Topic": "CFD ANALYSIS OF EXHAUST GAS FLOW THROUGH MUFFLER"
+ },
+ "9124":{
+  "Speakers": "Aadarsh Kumar, Deepika Chimote, Aqib Khan, Yash Jaiswal, Rakesh Kumar and Sanjay Kumar",
+  "Topic": "Measurement of Force in Granular Flow Past Cylindrical Models for various Inclination Angle"
+ },
+ "9142":{
+  "Speakers": "Sanand T V, Nitin Rathee, Hari Kumar K, Unnikrishnan Nair P, Jayan N and Nageswaran G",
+  "Topic": "Design and Numerical analysis of a High Head Inducer for a Rocket Pump"
+ },
+ "9143":{
+  "Speakers": "Rakesh Aggarwal, Ranjan Das and Hemendra Gusain",
+  "Topic": "Development of a New Instrumented Structure for the Measurement of Avalanche Impact Pressure"
+ },
+ "9154":{
+  "Speakers": "Jaykumar Adalja, Krutarth Soni, Mehul Rana and Jignesh Vala",
+  "Topic": "Study and Computational Analysis of RS-25 Engine’s Nozzle and Find out Data of RS-25 Engine"
+ },
+ "9170":{
+  "Speakers": "S S Kamalakcshy, K Manikandan, V Amirthavarshini, T Santra, R Haribalaji and S Dhanisha",
+  "Topic": "CFD Analysis of Vortex Shedding Behaviour over Different Geometries"
+ },
+ "9178":{
+  "Speakers": "Punit Pandey, Ankit Bansal and Krishna Singh",
+  "Topic": "CFD Analysis of Laminar Vortex Shedding Using Immersed Boundary Method in OpenFOAM"
+ },
+ "9181":{
+  "Speakers": "Shubham Mallik and Susheel Bhandari",
+  "Topic": "Melting performance enhancement of Laurie acid in a horizontal shell and tube storage unit using different fin configuration."
+ },
+ "9203":{
+  "Speakers": "Daya Shankar and Beauty Pandey",
+  "Topic": "Stability Analysis Of Supercritical Water-Cooled Reactor Using Lumped Parameter Model"
+ },
+ "9214":{
+  "Speakers": "Maheswar Rout, Jnana Ranjan Senapati and Suman Ghosh",
+  "Topic": "The effect of Reynolds number on mass suction and outlet temperature in IRS device"
+ },
+ "9233":{
+  "Speakers": "Dinesh Adepu and Prabhu Ramachandran",
+  "Topic": "Fluid-Structure Interaction with an Updated Lagrangian Smoothed Particle Hydrodynamics"
+ },
+ "9236":{
+  "Speakers": "Abhinesh Kumar and Prasanta Kumar Das",
+  "Topic": "Discrete element modeling of discharge of granular matter from a silo at different eccentric opening"
+ },
+ "9237":{
+  "Speakers": "Sharath S and Tamal Jana",
+  "Topic": "Numerical Investigation on Shock-Wave and Boundary Layer Interactions inside the Axisymmetric and Planar Scramjet Intakes with Different Cowl Orientations"
+ },
+ "9247":{
+  "Speakers": "Visakh M G, Chetan D Bankar and Jaywant H Arakeri",
+  "Topic": "Numerical simulation of 2D Tube Convection"
+ },
+ "9268":{
+  "Speakers": "Satyajit Das Karmakar and Himadri Chattopadhyay",
+  "Topic": "Numerical study of ducted vertical axis wind turbine with NACA0017 airfoil"
+ },
+ "9298":{
+  "Speakers": "Naren Pr, Aniruddh Mukunth and Raj Shree Rajagopalan",
+  "Topic": "Experimental and Numerical Study of Flow through Ventilator Splitter"
+ },
+ "9317":{
+  "Speakers": "Mukesh Sharma, Krishan Chand and Arnab Kr. De",
+  "Topic": "P r -effect on flow structures and heat transport in turbulent Rayleigh-Bénard convection from rough surfaces"
+ },
+ "9338":{
+  "Speakers": "Lokesh Rohilla, Ravi Prakash, Raj Kumar Verma and Arup Kumar Das",
+  "Topic": "Experimental Interfacial Reconstruction and Mass Transfer Modelling of a Slug Bubble During Co-current Flow in a Millimetric Tube"
+ },
+ "9383":{
+  "Speakers": "Ravi Singh, Arunabha Mahato, Achintya Pramanick and Subhas Rana",
+  "Topic": "Study of the impact of flow valve design on the temperature separation in the vortex tube with computational approach"
+ },
+ "9387":{
+  "Speakers": "Rahul Sundar, Dipanjan Majumdar, Chhote Lal Shah and Sunetra Sarkar",
+  "Topic": "Massive parallelisation and performance enhancement of an immersed boundary method based unsteady flow solver"
+ },
+ "9400":{
+  "Speakers": "Swathish S and Dr Rakesh P",
+  "Topic": "CFD Analysis on Cooling of Conical Plug Aerospike Nozzle with Secondary Fluid Injection"
+ },
+ "9435":{
+  "Speakers": "Jonnakutti Praveen, Charan P, Sushanth D and Rajamurugu N",
+  "Topic": "Wind tunnel studies on cricket ball subjected to various seam angles"
+ },
+ "9479":{
+  "Speakers": "Subhash Kumar, Sanjeev Kumar and Sreedhara Sheshadri",
+  "Topic": "The effect of lean premixed combustion on thermoacoustic instability in a swirl combustor"
+ },
+ "9484":{
+  "Speakers": "Guru Bachan Satsangi, Sunny Shiyal, Jayesh Bamaniya, Narayan Jaiswal and Dr. Amit Patel",
+  "Topic": "Estimating Baking Time for A Bakery Furnace Using Radiation Network Analysis"
+ },
+ "9493":{
+  "Speakers": "Subhasish Pradhan and Sushanta Dutta",
+  "Topic": "Experimental study on the utilization of synthetic jet to modulate the leading-edge vortex of a flapping wing"
+ },
+ "9498":{
+  "Speakers": "Abhishek Sharma and T. John Tharakan",
+  "Topic": "Computational modelling of MMH\/NTO Combustion in a Multi-element Triplet Injector Combustor"
+ },
+ "9513":{
+  "Speakers": "Ravikant Kumar Roy and Simon Peter",
+  "Topic": "NUMERICAL INVESTIGATIONS OF FORCED OSCILLATING CIRCULAR CYLINDER IN UNIFORM FLOW"
+ },
+ "9535":{
+  "Speakers": "David N",
+  "Topic": "Wake dynamics of a longitudinally oscillating cylinder at low Reynolds number"
+ },
+ "9549":{
+  "Speakers": "Vinod B. Vanarse, Siddharth Thakur, Prathu Raja Parmar, Saurabh Dubey and Dipankar Bandyopadhyay",
+  "Topic": "Linear Stability Analysis Of Phase Inversion Induced Viscous Fingering"
+ },
+ "9567":{
+  "Speakers": "Madhukara S, S Rambabu and P Parthasarathy",
+  "Topic": "VALIDATION AND OPTIMIZATION OF GENERALIZED POROUS MEDIA PROPERTY RELATION FOR THEIR USE IN VOLUMETRIC SOLAR RECEIVER"
+ },
+ "9583":{
+  "Speakers": "Kevin Mathew, Isha Debashish Nandi and Pankaj Kumar",
+  "Topic": "Numerical study on drag reduction using splitter plate for flow past a circular cylinder"
+ },
+ "9598":{
+  "Speakers": "Pradyumna Kodancha, Siddhartha Tripathi and Vadiraj Hemadri",
+  "Topic": "Novel and efficient superhydrophilic surface for improved critical heat flux in heat pipe applications"
+ },
+ "9609":{
+  "Speakers": "Jishnu Chandran R, Risha Raju, A Salih and Senthil Kumar Arumugam",
+  "Topic": "Accurate Compressible Flow Modelling of Liquid Shock Tube Problems"
+ },
+ "9628":{
+  "Speakers": "Pradeep Kumar Singh, Jaykumar Joshi, Pawan Sharma and Santosh Kumar Sahu",
+  "Topic": "Experimental Investigation of Elliptical Air-Jet Impingement on Metal-Foamed Surface."
+ },
+ "9649":{
+  "Speakers": "Abhishek Goyal, Amulya Tiwari and Raj Kumar Singh",
+  "Topic": "COMPUTATIONAL STUDY OF 2D FLOW PAST A CIRCULAR CYLINDER OSCILLATING TRANSVERSELY TO INCOMING FLOW"
+ },
+ "9661":{
+  "Speakers": "Manish Kumar Thakur, Chiranjit Sarkar, Shubham Chouksey and Rathod Srinivas",
+  "Topic": "Numerical study of the plane, slotted and holed disc magnetorheological brakes: A Computational Fluid Dynamics approach"
+ },
+ "9669":{
+  "Speakers": "Aravindan S and John Arul A",
+  "Topic": "Estimation of friction and inlet loss coefficient in stationary annulus"
+ },
+ "9680":{
+  "Speakers": "Venkateswara Rao Mallampati, Pavan Venkat Paipuri and Chinnam Naidu Paila",
+  "Topic": "EVALUATION OF MECHANICAL, MICROSTRUCTURAL AND TRIBOLOGICAL BEHAVIOUR OF Al5052 HYBRID METAL MATRIX COMPOSITE REINFORCED WITH Al2O3 AND Si3N4 PARTICLES"
+ },
+ "9687":{
+  "Speakers": "Sandip Dhumal, Krantisinha Jagtap, Shubham Malkunjikar, Mahesh Shindge and Surendra Barewar",
+  "Topic": "Comparative Numerical Analysis of ZnO and Ag\/ZnO Nanofluids Flowing through Automobile Radiator"
+ },
+ "9689":{
+  "Speakers": "Mansu Navaneethan, T Sundararajan and T Jayachandran",
+  "Topic": "Numerical Simulation of Compressible Multiphase Flows with Phase Change using Two-fluid Approach"
+ },
+ "9708":{
+  "Speakers": "Abhishek Singh Kashyap and Himanshu Tyagi",
+  "Topic": "Numerical Investigation of Isothermal Phase Change Process of a Heat Transfer Fluid"
+ },
+ "9727":{
+  "Speakers": "Pramod Kothmire, Yogesh Bhalerao, Vijay Naik and Rochish Thaokar",
+  "Topic": "Experimental and CFD investigation on Distributor of an Electrocoalescer"
+ },
+ "9729":{
+  "Speakers": "Sudhakar T, Arup Kumar Das and Deepak Kumar",
+  "Topic": "Numerical Investigation on the Effect of Reynolds Number on the Droplet Bypass Through T-Junction Using Lattice Boltzmann Method"
+ },
+ "9737":{
+  "Speakers": "Jvalant Trivedi, Mitesh Shah and Sachin Gupta",
+  "Topic": "CFD Analysis of melting process and Preparation of Nano Enhanced Phase Change Material for Thermal Storage Applications: A Review"
+ },
+ "9745":{
+  "Speakers": "Jaykumar Joshi, Akhalesh Sharma, Pawan Sharma and Santosh K Sahu",
+  "Topic": "Effect of multiple protrusions on thermal performance of jet impingement with smooth concave surface"
+ },
+ "9749":{
+  "Speakers": "Kapil Bodkha, D.S. Pilkhwal and N.K. Maheshwari",
+  "Topic": "Role of Buoyancy and Acceleration Parameters in the Heat Transfer Deterioration of Supercritical Carbon-dioxide under Natural Circulation"
+ },
+ "9752":{
+  "Speakers": "Akash Priy, Israr Ahmad, Manabendra Pathak and Mohd. Kaleem Khan",
+  "Topic": "Effects of wettability on the flow boiling heat transfer enhancement"
+ },
+ "9778":{
+  "Speakers": "Dheeraj Raghunathan and Sudhakar Yogaraj",
+  "Topic": "General pressure equation based incompressible flow solver"
+ },
+ "9781":{
+  "Speakers": "Prashant Maheshwary, Pramod Belkhode, Sarika Modak, Ayaz Afsar and Shubhangi Gondane",
+  "Topic": "Investigation of Experimental Data of Linkage Involving Adhesive Joint"
+ },
+ "9789":{
+  "Speakers": "Rajesh Choudhary, Amandeep Singh, Aditya Kumar and Sudhakar Subudhi",
+  "Topic": "Experimental Investigations on the Thermal Contact Conductance using Al2O3 Nanoparticles in the Interfacial Material"
+ },
+ "9824":{
+  "Speakers": "Jay Rana and Shaligram Tiwari",
+  "Topic": "Effect of wind gust on flow past pitching seagull wing"
+ },
+ "9858":{
+  "Speakers": "Arvind Thirunavukkarasu, Rahul Sundar and Sunetra Sarkar",
+  "Topic": "Modal Analysis of a flow past a stationary cylinder"
+ },
+ "9871":{
+  "Speakers": "Somrick Das Biswas, Keshav Kabra, Shailesh Nikam and Siddharth Anish",
+  "Topic": "Computational Analysis of Serpentine Nozzles"
+ },
+ "9895":{
+  "Speakers": "Lei Zeng, Jiacai Lu and Gretar Tryggvason",
+  "Topic": "Computational Studies of Three Phase Flotation of Hydrophobic Particles"
+ },
+ "9897":{
+  "Speakers": "Deepak Kumar and Bhaskar Kumar",
+  "Topic": "Stability characteristics of linear unstable modes in flow past elliptic cylinders"
+ },
+ "9913":{
+  "Speakers": "Vimalala Ponnuswamy and Dhivyalakshmi R",
+  "Topic": "Bioconvective MHD flow of micropolar nanofluid over a stretching sheet due to gyrotactic microorganisms with internal heat generation\/absorption and chemical reaction"
+ },
+ "9940":{
+  "Speakers": "Ravindra Shirsath and Rinku Mukherjee",
+  "Topic": "Aerodynamic Characteristics of Finite Rectangular Wings in Formation Flight with Ground Effect"
+ },
+ "9948":{
+  "Speakers": "John Solomon, Rhys Lockyer and Philip Kreth",
+  "Topic": "Planar Laser-Induced Fluorescence (PLIF) Studies on a High-frequency Pulsed Co-Axial Injector Flowfield"
+ },
+ "9950":{
+  "Speakers": "Raagvendra Singh, Abhishek Kalluri, Suman Vajjala and Rakesh Kumar",
+  "Topic": "Direct Flux Reconstruction for accurate resolution of complex flow structures"
+ },
+ "9961":{
+  "Speakers": "Kushan D S, Goutam Chakraborty, Biswajit Maiti, Sukanta Kumar Dash, Arun Kumar Samantaray and Sanat Kumar Singha",
+  "Topic": "On Hydrodynamics of Dry Granulation of LD\/BOF Slag using Spinning Disc Atomizer: Effect of Change in Disc Rotation Direction with Air Blast on Liquid Flow Characteristics"
+ },
+ "9969":{
+  "Speakers": "Vimal Patel and Rajashekhar Jeela",
+  "Topic": "Fluid flow simulation in a Ball valve"
+ },
+ "9983":{
+  "Speakers": "Sachin Kumar Jain, Utsab Banerjee, Chiranjit Mandal and Ashis Kumar Sen",
+  "Topic": "Reversible Ferrofluid Spike To Droplet Transition Due To An Approaching Permanent Magnet"
+ },
+ "9985":{
+  "Speakers": "Ravi Kant, Samarth Acharya and Ramesh Bhoraniya",
+  "Topic": "Linear Stability Analysis of Open Cavity Flow Using OpenFOAM®"
+ }
+}
