@@ -59,6 +59,7 @@ class Session3day2 extends StatelessWidget {
             child: ListView.builder(
               itemCount: schedule[5]["6"].length - 1,
               itemBuilder: (context, index) {
+
                 return Container(
                     height: MediaQuery.of(context).size.height,
                     child: RoomCard(
@@ -72,7 +73,7 @@ class Session3day2 extends StatelessWidget {
                         first: schedule[5]["6"][index + 1]["1"],
                         second: schedule[5]["6"][index + 1]["2"],
                         third: schedule[5]["6"][index + 1]["3"],
-                        fourth: isFourth ? schedule[5]["6"][index + 1]["4"] : "",
+                        fourth: schedule[5]["6"][index + 1]["4"]==Null ? schedule[5]["6"][index + 1]["4"] : "",
                         fifth: isFifth ? schedule[5]["6"][index + 1]["5"] : "",
                         topicList: topic));
               },
