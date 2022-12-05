@@ -1,11 +1,20 @@
 import 'package:conference_app/Card.dart';
 import 'package:flutter/material.dart';
 
-class Session1day1 extends StatelessWidget {
+class SessionPage extends StatelessWidget {
   final List schedule;
   final Map topic;
+  final String date;
+  final int firstInt;
+  final String stringInt;
 
-  const Session1day1({Key? key, required this.schedule, required this.topic})
+  const SessionPage(
+      {Key? key,
+      required this.schedule,
+      required this.topic,
+      required this.date,
+      required this.firstInt,
+      required this.stringInt})
       : super(key: key);
 
   @override
@@ -62,9 +71,9 @@ class Session1day1 extends StatelessWidget {
                           color: Colors.white,
                         ),
                       ),
-                      const Text(
-                        "14 December 2022 (Wednesday)",
-                        style: TextStyle(
+                      Text(
+                        date,
+                        style: const TextStyle(
                           fontWeight: FontWeight.w600,
                           fontStyle: FontStyle.normal,
                           fontFamily: 'Poppins',
@@ -82,25 +91,34 @@ class Session1day1 extends StatelessWidget {
               physics: const NeverScrollableScrollPhysics(),
               scrollDirection: Axis.vertical,
               shrinkWrap: true,
-              itemCount: schedule[0]["1"].length - 1,
+              itemCount: schedule[firstInt][stringInt].length - 1,
               itemBuilder: (context, index) {
                 return RoomCard(
-                    first_time: schedule[0]["1"][0]["1"],
-                    second_time: schedule[0]["1"][0]["2"],
-                    third_time: schedule[0]["1"][0]["3"],
-                    fourth_time: isFourth ? schedule[0]["1"][0]["4"] : "",
-                    fifth_time: isFifth ? schedule[0]["1"][0]["5"] : "",
-                    room: schedule[0]["1"][index + 1]["Room"],
-                    topic: schedule[0]["1"][index + 1]["Topic"],
-                    first: schedule[0]["1"][index + 1]["1"],
-                    second: schedule[0]["1"][index + 1]["2"],
-                    third: schedule[0]["1"][index + 1]["3"],
-                    fourth: isFourth ? schedule[0]["1"][index + 1]["4"] : "",
-                    fifth: isFifth ? schedule[0]["1"][index + 1]["5"] : "",
+                    first_time: schedule[firstInt][stringInt][0]["1"],
+                    second_time: schedule[firstInt][stringInt][0]["2"],
+                    third_time: schedule[firstInt][stringInt][0]["3"],
+                    fourth_time:
+                        isFourth ? schedule[firstInt][stringInt][0]["4"] : "",
+                    fifth_time:
+                        isFifth ? schedule[firstInt][stringInt][0]["5"] : "",
+                    room: schedule[firstInt][stringInt][index + 1]["Room"],
+                    topic: schedule[firstInt][stringInt][index + 1]["Topic"],
+                    first: schedule[firstInt][stringInt][index + 1]["1"],
+                    second: schedule[firstInt][stringInt][index + 1]["2"],
+                    third: schedule[firstInt][stringInt][index + 1]["3"],
+                    fourth: isFourth
+                        ? schedule[firstInt][stringInt][index + 1]["4"]
+                        : "",
+                    fifth: isFifth
+                        ? schedule[firstInt][stringInt][index + 1]["5"]
+                        : "",
                     topicList: topic);
               },
             ),
-          )
+          ),
+          const SizedBox(
+            height: 30,
+          ),
         ],
       ),
     );
