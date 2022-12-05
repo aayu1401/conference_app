@@ -46,7 +46,7 @@ class Session2day2 extends StatelessWidget {
                         fontStyle: FontStyle.normal,
                         fontFamily: 'Poppins',
                         fontSize: 12),),
-                  const Text("15 December 2022 (Friday)",
+                  const Text("15 December 2022 (Wednesday)",
                     style: const TextStyle(
                         fontWeight: FontWeight.w600,
                         fontStyle: FontStyle.normal,
