@@ -65,6 +65,7 @@ class Session1day2 extends StatelessWidget {
           itemCount: schedule[3]["4"].length - 1,
           itemBuilder: (context, index) {
             bool isFourth_exist = schedule[3]["4"][index +1].containsKey("4");
+            bool isFifth_exist = schedule[3][4][index +1].containsKey("5");
             return SizedBox(
                 height: MediaQuery.of(context).size.height,
                 child: RoomCard(
@@ -79,7 +80,7 @@ class Session1day2 extends StatelessWidget {
                     second: schedule[3]["4"][index + 1]["2"],
                     third: schedule[3]["4"][index + 1]["3"],
                     fourth: isFourth_exist ? schedule[3]["4"][index + 1]["4"] : "",
-                    fifth: isFifth ? schedule[3]["4"][index + 1]["5"] : "",
+                    fifth: isFifth_exist ? schedule[3]["4"][index + 1]["5"] : "",
                     topicList: topic));
           },
         ),

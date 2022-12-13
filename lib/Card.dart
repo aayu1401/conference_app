@@ -254,7 +254,7 @@ class _RoomCardState extends State<RoomCard> {
       ),
       child: Text(
         textAlign: TextAlign.center,
-        'Speaker : $text',
+        'Author : $text',
         style: Theme.of(context).textTheme.headline1!.copyWith(
               color: AppTheme.lightGrey.withOpacity(0.6),
               fontSize: 12,

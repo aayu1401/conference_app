@@ -19,10 +19,10 @@ class SessionPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    String venue = schedule[0]["1"][0]["Room"];
-    String topicTime = schedule[0]["1"][0]["Topic"];
-    bool isFourth = schedule[0]["1"][0].containsKey("4");
-    bool isFifth = schedule[0]["1"][0].containsKey("5");
+    String venue = schedule[firstInt][stringInt][0]["Room"];
+    String topicTime = schedule[firstInt][stringInt][0]["Topic"];
+    bool isFourth = schedule[firstInt][stringInt][0].containsKey("4");
+    bool isFifth = schedule[firstInt][stringInt][0].containsKey("5");
 
     return SingleChildScrollView(
       child: Column(
@@ -93,6 +93,8 @@ class SessionPage extends StatelessWidget {
               shrinkWrap: true,
               itemCount: schedule[firstInt][stringInt].length - 1,
               itemBuilder: (context, index) {
+                bool isFourth_exist = schedule[firstInt][stringInt][index +1].containsKey("4");
+                bool isFifth_exist = schedule[firstInt][stringInt][index +1].containsKey("5");
                 return RoomCard(
                     first_time: schedule[firstInt][stringInt][0]["1"],
                     second_time: schedule[firstInt][stringInt][0]["2"],
@@ -106,10 +108,10 @@ class SessionPage extends StatelessWidget {
                     first: schedule[firstInt][stringInt][index + 1]["1"],
                     second: schedule[firstInt][stringInt][index + 1]["2"],
                     third: schedule[firstInt][stringInt][index + 1]["3"],
-                    fourth: isFourth
+                    fourth: isFourth_exist
                         ? schedule[firstInt][stringInt][index + 1]["4"]
                         : "",
-                    fifth: isFifth
+                    fifth: isFifth_exist
                         ? schedule[firstInt][stringInt][index + 1]["5"]
                         : "",
                     topicList: topic);

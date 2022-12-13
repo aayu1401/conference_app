@@ -1,19 +1,16 @@
 import 'package:conference_app/Card.dart';
+import 'package:conference_app/SingleCard.dart';
 import 'package:flutter/material.dart';
 
-class Session1day1 extends StatelessWidget {
-  final List schedule;
-  final Map topic;
+class Keynote3 extends StatelessWidget {
 
-  const Session1day1({Key? key, required this.schedule, required this.topic})
+
+  const Keynote3({Key? key})
       : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    String venue = schedule[0]["1"][0]["Room"];
-    String topicTime = schedule[0]["1"][0]["Topic"];
-    bool isFourth = schedule[0]["1"][0].containsKey("4");
-    bool isFifth = schedule[0]["1"][0].containsKey("5");
+    String venue = "APJ Abdul Kalam Block";
 
     return SingleChildScrollView(
       child: Column(
@@ -53,7 +50,7 @@ class Session1day1 extends StatelessWidget {
                         ),
                       ),
                       Text(
-                        topicTime,
+                        "10:15 - 11:00",
                         style: const TextStyle(
                           fontWeight: FontWeight.w600,
                           fontStyle: FontStyle.normal,
@@ -63,7 +60,7 @@ class Session1day1 extends StatelessWidget {
                         ),
                       ),
                       const Text(
-                        "14 December 2022 (Wednesday)",
+                        "15 December 2022 (Thursday)",
                         style: TextStyle(
                           fontWeight: FontWeight.w600,
                           fontStyle: FontStyle.normal,
@@ -82,24 +79,27 @@ class Session1day1 extends StatelessWidget {
               physics: const NeverScrollableScrollPhysics(),
               scrollDirection: Axis.vertical,
               shrinkWrap: true,
-              itemCount: schedule[0]["1"].length - 1,
+              itemCount: 3,
               itemBuilder: (context, index) {
-                bool isFourth_exist = schedule[0]["1"][index +1].containsKey("4");
-                bool isFifth_exist = schedule[0]["1"][index +1].containsKey("5");
-                return RoomCard(
-                    first_time: schedule[0]["1"][0]["1"],
-                    second_time: schedule[0]["1"][0]["2"],
-                    third_time: schedule[0]["1"][0]["3"],
-                    fourth_time: isFourth ? schedule[0]["1"][0]["4"] : "",
-                    fifth_time: isFifth ? schedule[0]["1"][0]["5"] : "",
-                    room: schedule[0]["1"][index + 1]["Room"],
-                    topic: schedule[0]["1"][index + 1]["Topic"],
-                    first: schedule[0]["1"][index + 1]["1"],
-                    second: schedule[0]["1"][index + 1]["2"],
-                    third: schedule[0]["1"][index + 1]["3"],
-                    fourth: isFourth_exist ? schedule[0]["1"][index + 1]["4"] : "",
-                    fifth: isFifth_exist ? schedule[0]["1"][index + 1]["5"] : "",
-                    topicList: topic);
+                if (index == 0) {
+                  return const SingleCard(
+                      room: "Hall D (L2-004)",
+                      topic: "Liquid-vapor Phase-change phenomena in Miniature Devices",
+                      speaker: "Prof. Manmohan Pandey, IIT Guwahati");
+                } else if (index == 1) {
+                  return const SingleCard(
+                      room: "Hall E (L2-005)",
+                      topic:
+                      "Ionic wind generation by plasma discharge for flow control applications",
+                      speaker: "Prof. Pradipta Kumar Panigrahi , IIT Kanpur ");
+                } else {
+                  return const SingleCard(
+                      room: "Hall F (L2-103)",
+                      topic:
+                      "Dynamics and vortex structures of a near-wall flexible cylinder subjected to vortex-induced vibrations",
+                      speaker:
+                      "Prof. Chunning Ji, Tianjin University (Online)");
+                }
               },
             ),
           )

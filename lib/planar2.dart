@@ -1,19 +1,16 @@
 import 'package:conference_app/Card.dart';
+import 'package:conference_app/SingleCard.dart';
 import 'package:flutter/material.dart';
 
-class Session1day1 extends StatelessWidget {
-  final List schedule;
-  final Map topic;
+class Plenary2 extends StatelessWidget {
 
-  const Session1day1({Key? key, required this.schedule, required this.topic})
+
+  const Plenary2({Key? key})
       : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    String venue = schedule[0]["1"][0]["Room"];
-    String topicTime = schedule[0]["1"][0]["Topic"];
-    bool isFourth = schedule[0]["1"][0].containsKey("4");
-    bool isFifth = schedule[0]["1"][0].containsKey("5");
+    String venue = "Convocation Hall";
 
     return SingleChildScrollView(
       child: Column(
@@ -52,9 +49,9 @@ class Session1day1 extends StatelessWidget {
                           color: Color(0xFFE2D1F9),
                         ),
                       ),
-                      Text(
-                        topicTime,
-                        style: const TextStyle(
+                      const Text(
+                        "09:00 - 10:00",
+                        style: TextStyle(
                           fontWeight: FontWeight.w600,
                           fontStyle: FontStyle.normal,
                           fontFamily: 'Poppins',
@@ -63,7 +60,7 @@ class Session1day1 extends StatelessWidget {
                         ),
                       ),
                       const Text(
-                        "14 December 2022 (Wednesday)",
+                        "15 December 2022 (Thursday)",
                         style: TextStyle(
                           fontWeight: FontWeight.w600,
                           fontStyle: FontStyle.normal,
@@ -82,24 +79,15 @@ class Session1day1 extends StatelessWidget {
               physics: const NeverScrollableScrollPhysics(),
               scrollDirection: Axis.vertical,
               shrinkWrap: true,
-              itemCount: schedule[0]["1"].length - 1,
+              itemCount: 1,
               itemBuilder: (context, index) {
-                bool isFourth_exist = schedule[0]["1"][index +1].containsKey("4");
-                bool isFifth_exist = schedule[0]["1"][index +1].containsKey("5");
-                return RoomCard(
-                    first_time: schedule[0]["1"][0]["1"],
-                    second_time: schedule[0]["1"][0]["2"],
-                    third_time: schedule[0]["1"][0]["3"],
-                    fourth_time: isFourth ? schedule[0]["1"][0]["4"] : "",
-                    fifth_time: isFifth ? schedule[0]["1"][0]["5"] : "",
-                    room: schedule[0]["1"][index + 1]["Room"],
-                    topic: schedule[0]["1"][index + 1]["Topic"],
-                    first: schedule[0]["1"][index + 1]["1"],
-                    second: schedule[0]["1"][index + 1]["2"],
-                    third: schedule[0]["1"][index + 1]["3"],
-                    fourth: isFourth_exist ? schedule[0]["1"][index + 1]["4"] : "",
-                    fifth: isFifth_exist ? schedule[0]["1"][index + 1]["5"] : "",
-                    topicList: topic);
+
+
+                return const SingleCard(room: "Convocation Hall",
+                    topic: "Numerical simulations of complex multiphase flows",
+                    speaker: "Prof. Gretar Tryggvason, Johns Hopkins University");
+
+
               },
             ),
           )

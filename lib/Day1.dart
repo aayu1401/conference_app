@@ -1,3 +1,6 @@
+import 'package:conference_app/keynote1.dart';
+import 'package:conference_app/keynote2.dart';
+import 'package:conference_app/planar1.dart';
 import 'package:conference_app/session_page.dart';
 import 'package:flutter/material.dart';
 
@@ -16,7 +19,7 @@ class _Day1State extends State<Day1> {
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
-      length: 3,
+      length: 6,
       child: Scaffold(
         appBar: AppBar(
           elevation: 1,
@@ -35,10 +38,14 @@ class _Day1State extends State<Day1> {
               borderSide: BorderSide(width: 4, color: Colors.teal),
               insets: EdgeInsets.only(bottom: 10),
             ),
+            isScrollable: true,
             tabs: [
               Tab(text: "SESSION 1"),
               Tab(text: "SESSION 2"),
-              Tab(text: "SESSION 3")
+              Tab(text: "SESSION 3"),
+              Tab(text: "KEYNOTE-1"),
+              Tab(text: "KEYNOTE-2"),
+              Tab(text: "PLENARY-1")
             ],
           ),
         ),
@@ -70,6 +77,10 @@ class _Day1State extends State<Day1> {
               stringInt: '3',
               date: '14 December 2022 (Wednesday)',
             ),
+            const Keynote1(),
+            const Keynote2(),
+            const Plenary1()
+
           ],
         ),
       ),

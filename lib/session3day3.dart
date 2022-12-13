@@ -62,6 +62,7 @@ class Session3day3 extends StatelessWidget {
             child: ListView.builder(
               itemCount: schedule[9]["10"].length - 1,
               itemBuilder: (context, index) {
+                bool isFourth_exist = schedule[9]["10"][index +1].containsKey("4");
                 bool isFifth_exist = schedule[9]["10"][index +1].containsKey("5");
                 return Container(
                     height: MediaQuery.of(context).size.height,
@@ -76,7 +77,7 @@ class Session3day3 extends StatelessWidget {
                         first: schedule[9]["10"][index + 1]["1"],
                         second: schedule[9]["10"][index + 1]["2"],
                         third: schedule[9]["10"][index + 1]["3"],
-                        fourth: isFourth ? schedule[9]["10"][index + 1]["4"] : "",
+                        fourth: isFourth_exist ? schedule[9]["10"][index + 1]["4"] : "",
                         fifth: isFifth_exist ? schedule[9]["10"][index + 1]["5"] : "",
                         topicList: topic));
               },

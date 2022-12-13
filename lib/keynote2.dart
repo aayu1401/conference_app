@@ -1,19 +1,13 @@
 import 'package:conference_app/Card.dart';
+import 'package:conference_app/SingleCard.dart';
 import 'package:flutter/material.dart';
 
-class Session1day1 extends StatelessWidget {
-  final List schedule;
-  final Map topic;
-
-  const Session1day1({Key? key, required this.schedule, required this.topic})
-      : super(key: key);
+class Keynote2 extends StatelessWidget {
+  const Keynote2({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    String venue = schedule[0]["1"][0]["Room"];
-    String topicTime = schedule[0]["1"][0]["Topic"];
-    bool isFourth = schedule[0]["1"][0].containsKey("4");
-    bool isFifth = schedule[0]["1"][0].containsKey("5");
+    String venue = "APJ Abdul Kalam Block";
 
     return SingleChildScrollView(
       child: Column(
@@ -53,7 +47,7 @@ class Session1day1 extends StatelessWidget {
                         ),
                       ),
                       Text(
-                        topicTime,
+                        "14:30 - 15:15",
                         style: const TextStyle(
                           fontWeight: FontWeight.w600,
                           fontStyle: FontStyle.normal,
@@ -82,24 +76,40 @@ class Session1day1 extends StatelessWidget {
               physics: const NeverScrollableScrollPhysics(),
               scrollDirection: Axis.vertical,
               shrinkWrap: true,
-              itemCount: schedule[0]["1"].length - 1,
+              itemCount: 5,
               itemBuilder: (context, index) {
-                bool isFourth_exist = schedule[0]["1"][index +1].containsKey("4");
-                bool isFifth_exist = schedule[0]["1"][index +1].containsKey("5");
-                return RoomCard(
-                    first_time: schedule[0]["1"][0]["1"],
-                    second_time: schedule[0]["1"][0]["2"],
-                    third_time: schedule[0]["1"][0]["3"],
-                    fourth_time: isFourth ? schedule[0]["1"][0]["4"] : "",
-                    fifth_time: isFifth ? schedule[0]["1"][0]["5"] : "",
-                    room: schedule[0]["1"][index + 1]["Room"],
-                    topic: schedule[0]["1"][index + 1]["Topic"],
-                    first: schedule[0]["1"][index + 1]["1"],
-                    second: schedule[0]["1"][index + 1]["2"],
-                    third: schedule[0]["1"][index + 1]["3"],
-                    fourth: isFourth_exist ? schedule[0]["1"][index + 1]["4"] : "",
-                    fifth: isFifth_exist ? schedule[0]["1"][index + 1]["5"] : "",
-                    topicList: topic);
+                if (index == 0) {
+                  return const SingleCard(
+                      room: "Hall D (L2-004)",
+                      topic: "Diffusive Flux Modeling of Blood Viscosity",
+                      speaker: "Prof. K. Muralidhar, IIT Kanpur");
+                } else if (index == 1) {
+                  return const SingleCard(
+                      room: "Hall E (L2-005)",
+                      topic:
+                          "Natural circulation cooling in nuclear reactor safety systems- Experimental tests for large scale system",
+                      speaker: "Prof. Shripad Revankar, Purdue University ");
+                } else if (index == 2) {
+                  return const SingleCard(
+                      room: "Hall P (L2-205)",
+                      topic:
+                          "Performance evaluation of a Coupled Twin-rotor Vertical Axis Wind Turbine ",
+                      speaker: "Prof. S.N. Singh, IIT Delhi");
+                } else if (index == 3) {
+                  return const SingleCard(
+                      room: "Hall F (L2-103)",
+                      topic:
+                          "From beating hearts to flapping fins: Insights into biological flows empowered by high-fidelity Immersed Boundary Methods",
+                      speaker:
+                          "Prof. Rajat Mittal, Johns Hopkins University (Online)");
+                } else {
+                  return const SingleCard(
+                      room: "Hall G (L2-104)",
+                      topic:
+                          "About the underlying logic and the strategy of the winning thesis/paper in applied mechanics",
+                      speaker:
+                          "Prof. An-Bang Wang, National Taiwan University (Online)");
+                }
               },
             ),
           )

@@ -1,19 +1,13 @@
 import 'package:conference_app/Card.dart';
+import 'package:conference_app/SingleCard.dart';
 import 'package:flutter/material.dart';
 
-class Session1day1 extends StatelessWidget {
-  final List schedule;
-  final Map topic;
-
-  const Session1day1({Key? key, required this.schedule, required this.topic})
-      : super(key: key);
+class Keynote1 extends StatelessWidget {
+  const Keynote1({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    String venue = schedule[0]["1"][0]["Room"];
-    String topicTime = schedule[0]["1"][0]["Topic"];
-    bool isFourth = schedule[0]["1"][0].containsKey("4");
-    bool isFifth = schedule[0]["1"][0].containsKey("5");
+    String venue = "APJ Abdul Kalam Block";
 
     return SingleChildScrollView(
       child: Column(
@@ -52,9 +46,9 @@ class Session1day1 extends StatelessWidget {
                           color: Color(0xFFE2D1F9),
                         ),
                       ),
-                      Text(
-                        topicTime,
-                        style: const TextStyle(
+                      const Text(
+                        "11:30 - 12:15",
+                        style: TextStyle(
                           fontWeight: FontWeight.w600,
                           fontStyle: FontStyle.normal,
                           fontFamily: 'Poppins',
@@ -82,24 +76,35 @@ class Session1day1 extends StatelessWidget {
               physics: const NeverScrollableScrollPhysics(),
               scrollDirection: Axis.vertical,
               shrinkWrap: true,
-              itemCount: schedule[0]["1"].length - 1,
+              itemCount: 4,
               itemBuilder: (context, index) {
-                bool isFourth_exist = schedule[0]["1"][index +1].containsKey("4");
-                bool isFifth_exist = schedule[0]["1"][index +1].containsKey("5");
-                return RoomCard(
-                    first_time: schedule[0]["1"][0]["1"],
-                    second_time: schedule[0]["1"][0]["2"],
-                    third_time: schedule[0]["1"][0]["3"],
-                    fourth_time: isFourth ? schedule[0]["1"][0]["4"] : "",
-                    fifth_time: isFifth ? schedule[0]["1"][0]["5"] : "",
-                    room: schedule[0]["1"][index + 1]["Room"],
-                    topic: schedule[0]["1"][index + 1]["Topic"],
-                    first: schedule[0]["1"][index + 1]["1"],
-                    second: schedule[0]["1"][index + 1]["2"],
-                    third: schedule[0]["1"][index + 1]["3"],
-                    fourth: isFourth_exist ? schedule[0]["1"][index + 1]["4"] : "",
-                    fifth: isFifth_exist ? schedule[0]["1"][index + 1]["5"] : "",
-                    topicList: topic);
+                if (index == 0) {
+                  return const SingleCard(
+                      room: "Hall D (L2-004)",
+                      topic:
+                          "Recent insights on the flow behaviour of fluidic oscillators",
+                      speaker:
+                          "Dr. Venkatakrishnan L., CSIR-National Aerospace Laboratories");
+                } else if (index == 1) {
+                  return const SingleCard(
+                      room: "Hall E (L2-005)",
+                      topic:
+                          "Influence of capillary forces on evolving jets during single drop impact and dynamics of two drops falling in tandem on a liquid pool",
+                      speaker: "Prof. Gautam Biswas, IIT Kanpur");
+                } else if (index == 2) {
+                  return const SingleCard(
+                      room: "Hall F (L2-103)",
+                      topic: "Vorticity, Viscosity and Vibration",
+                      speaker:
+                          "Prof. Kerry Hourigan, Monash University (Online)");
+                } else {
+                  return const SingleCard(
+                      room: "Hall G (L2-104)",
+                      topic:
+                          "Level-set based topology optimization of flow field using the lattice Boltzmann method",
+                      speaker:
+                          "Prof. Toshiro Matsumoto, Nagoya University (Online)");
+                }
               },
             ),
           )
