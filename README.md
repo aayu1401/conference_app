@@ -1,6 +1,8 @@
 # conference_app
 
-A new Flutter project.
+Welcome to the repository for our conference app, developed using Flutter and Dart. Designed for a college event, this app successfully served over 1,000 participants. 
+
+Explore the code to see how we built a seamless and efficient user experience for large-scale events.
 
 ## Getting Started
 
